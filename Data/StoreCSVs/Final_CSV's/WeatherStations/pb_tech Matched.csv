@@ -1,0 +1,20 @@
+type,brand,name,price,external_sku,internal_sku,simular_sku,tracked_sku
+homewares,TESA,TESA WS2980C Pro Weather Station WEATHERUNDERGROUND WIFI,363.1,HOMLCS2900,"Tws2980",0,FALSE
+homewares,ECOFLOW,ECOFLOW DELTA Portable Power Station  - Lithium-Ion NMC Battery - 4 x AC Outlets & 1260Wh capacity,2698.99,HOMECF1004,0,0,FALSE
+homewares,ECOFLOW,ECOFLOW RIVER 2 MAX Portable Power Station - 512Wh LiFePO4 Battery (5 Years Warranty),1298.99,HOMECF2002,0,0,FALSE
+homewares,ECOFLOW,"ECOFLOW DELTA mini Portable Power Station - Capacity : 882Wh, AC Output (2) : Pure Sine Wave, 1400W Total (Surge 2100W), 220-240V~ (50Hz/60Hz)",2199,HOMECF1005,0,0,FALSE
+homewares,TESA,TESA WS1151 NZ Moon Phase Weather Station,72,KITTSA1151,0,0,TRUE
+homewares,LA CROSSE,LA CROSSE V10-TH WIFI Colour Weather Station- AS/NZ 5V power adaptor + USB cable included,151.26,HOMLCS0010,V10-TH,0,FALSE
+homewares,LA CROSSE,LA CROSSE V22-WRTH WIFI Wind Speed Rain Colour Weather Station- AS/NZ 5V power adaptor + USB cable included,284,HOMLCS4177,V22-WRTH,0,FALSE
+homewares,ECOFLOW,ECOFLOW RIVER 2 Portable Power Station - 256Wh LiFePO4 Battery (5 Years Warranty),749,HOMECF2001,0,0,FALSE
+homewares,LA CROSSE,LA CROSSE S82950 WIFI Wind Weather Station AccuWeather Forecast - AS/NZ 5V power adaptor + USB cable included.,220,HOMLCS2950,S82950,0,FALSE
+homewares,TESA,TESA WS1081 Ver3 Weather Center - Touch Screen Panel with PC Interface,231,HOMLCS1081,Tws1081,0,FALSE
+homewares,LA CROSSE,LA CROSSE V30v2 Personal WIFI ACCUWEATHER Weather Station,290.97,HOMLCS0030,0,0,TRUE
+homewares,LA CROSSE,LA CROSSE V21-WTH WIFI Wind Speed Colour Weather Station- AS/NZ 5V power adaptor + USB cable included,234.22,HOMLCS4176,v21-WTH,0,FALSE
+homewares,ECOFLOW,ECOFLOW 400W Portable Solar Panel,1748.99,HOMECF0140,0,0,FALSE
+homewares,3M,"3M AN019460029 Scotch-Brite Handy Sponge Antibacterial, Pack of 4",7.39,OFSMMM10226,0,0,FALSE
+homewares,LA CROSSE,LA CROSSE C80758 WiFi Weather Station,259,HOMLCS0758,0,0,TRUE
+homewares,LA CROSSE,LA CROSSE 308-1425C Large Screen Colour Station with Alerts,120,HOMLCS1425,0,0,TRUE
+homewares,3M,"3M XN002034603 Scotch-Brite Non-Scratch Scrub Sponge, Pack of 8",14.42,OFSMMM10218,0,0,FALSE
+homewares,3M,"3M AN019460011 Scotch-Brite Antibacterial Thick Sponge, Pack of 3",7.69,OFSMMM10219,0,0,FALSE
+homewares,LA CROSSE,LA CROSSE 724-1415BL Digital Rain Gauge with Backlight,138,HOMLCS1415,724-1415BL,0,FALSE

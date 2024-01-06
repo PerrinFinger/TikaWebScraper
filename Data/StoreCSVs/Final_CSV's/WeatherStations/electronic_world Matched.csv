@@ -1,0 +1,31 @@
+type,brand,name,price,external_sku,internal_sku,simular_sku,tracked_sku
+weather-station,,V42-PRO-AU La Crosse Professional WIFI Wireless Weather Station,399,V42-PRO-AU,0,0,TRUE
+weather-station,,V40A-PROV2 La Crosse Complete Personal WUNDERGROUND WIFI Weather Station,399.9,V40A-PROv2,"V40-PRO",0,FALSE
+weather-station,,V30V2 La Crosse Personal WIFI Weather Station with AccuWeather,391.79,V30V2,0,0,TRUE
+weather-station,,327-30647 La Crosse Professional WIFI C79790 and V50 Colour Weather Stations,426.13,327-30647,0,C79790,FALSE
+weather-station,,C79790 La Crosse Professional WIFI Colour Weather Station,340.61,C79790,C79790,0,FALSE
+weather-station,,V21-WTHV3 La Crosse Personal WIFI Wind Weather Station,263.28,V21-WTHV3,v21-WTH,0,FALSE
+weather-station,,S82950 La Crosse WIFI Weather Station with Leak Detector,284.82,S82950,S82950,0,FALSE
+weather-station,,V22-WRTH Ver2 La Crosse WIFI Wind Speed Rain Colour Weather Station,370.78,V22-WRTH,V22-WRTH,0,FALSE
+weather-station,,V15-TH La Crosse WIFI Multiday Forecast Colour Weather Station,196.67,V15-TH,0,0,TRUE
+weather-station,,V10-TH La Crosse WIFI Colour Weather Station,198.86,V10-TH,V10-TH,0,FALSE
+weather-station,,C75716 La Crosse Complete Personal Remote Monitoring WIFI Weather Station,400.5,C75716,0,0,TRUE
+weather-station,,XC0439 DIGITECH addon Soil Thermo-Moisture Wireless Sensor for XC0438,40,XC0439,0,0,FALSE
+weather-station,,WS1081 Ver3 TESA Touch Screen Weather Center with PC interface,243.34,WS1081v3,"Tws1081",0,FALSE
+weather-station,,WS2950C-PRO TESA Prof 7 Inch Colour WIFI Weather Station,350.4,WS2950C-PRO,0,0,TRUE
+weather-station,,WS2980C-PRO TESA Prof 7 Inch Colour WIFI Weather Station,350.4,WS2980C-PRO,"Tws2980",0,FALSE
+weather-station,,WS2900C-PRO TESA Prof 7 Inch Colour WIFI Weather Station,350.4,WS2900C-PRO,0,Tws2980,FALSE
+weather-station,,327-1417V2 La Crosse Prof Wind Speed Colour Station,250.54,327-1417V2,327-1417v2,0,FALSE
+weather-station,,"S81120V2 Wireless Weather Station with Temperature, Wind and Humidity",270.45,S81120V2,0,0,TRUE
+weather-station,,327-1417BW La Crosse Wind Speed Weather Station,182.38,327-1417BW,0,327-1417v2,FALSE
+weather-station,,WS5300 TESA Prof Multi Sensor Weather Station,179.82,WS5300,WS5300,0,FALSE
+weather-station,,XC0436 DIGITECH WIFI Digital Colour Weather Station,399,XC0436,0,0,FALSE
+weather-station,,XC0434 DIGITECH Wireless Digital Colour Weather Station,419,XC0434,0,0,FALSE
+weather-station,,XC0400 DIGITECH Mini LCD Display Weather Station,180,XC0400,0,0,FALSE
+weather-station,,XC0432 DIGITECH Wireless Digital B/W Weather Station,270,XC0432,0,0,FALSE
+weather-station,,308-1417BL La Crosse Forecast Weather Station with Backlight,135.6,308-1417BL,0,0,TRUE
+weather-station,,WS1151 Wireless Moon Phase Weather Station Combo Kit with 2 Base Console,145.29,WS1151-D,0,0,TRUE
+weather-station,,WS1151 TESA NZ Moon Phase Weather Station,98.33,WS1151,0,0,TRUE
+weather-station,,WS0200 TESA Desktop Wireless Thermometer,39.87,WS0200,0,0,TRUE
+weather-station,,WS710 TESA 8-channel Thermo-Hygrometer,85.14,WS710,0,0,TRUE
+weather-station,,308-1412-3TXV2 La Crosse Temperature Humidity with 3 Sensors,150.08,308-1412-3TXV2,0,0,TRUE

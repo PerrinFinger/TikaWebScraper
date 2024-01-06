@@ -1,0 +1,66 @@
+type,brand,name,price,external_sku,internal_sku,simular_sku,tracked_sku
+telescopes,Condition: New,Tasco Spacestation 60x700mm Telescope,429,LOT3586,0,214104,FALSE
+telescopes,Condition: New,SkyWatcher Star Adventurer 102mm AZ5 Telescope,1079,LOT3585,SW1025AZ3,0,FALSE
+telescopes,Condition: New,SkyWatcher Heritage 76mm Mini Dobsonian Telescope,339,LOT3563,0,239101,FALSE
+telescopes,Condition: New,"SkyWatcher Heritage 5"" 130mm Table Top Telescope",675,LOT3549,0,0,FALSE
+telescopes,Condition: New,"SkyWatcher 8"" 200mm Collapsible Dobsonian Telescope",1349,LOT3579,0,0,FALSE
+telescopes,Condition: New,"SkyWatcher 6"" Classic Dobsonian Telescope",675,LOT3548,SWDOB150,239106,FALSE
+telescopes,Condition: New,SkyWatcher 120mm AZ3 Refractor Telescope,1349,LOT3565,SW1206AZ3,214127AZ3,FALSE
+telescopes,Condition: New,SkyWatcher 102mm AZ3 Refractor Telescope,1029,LOT3558,SW1025AZ3,214124s,FALSE
+telescopes,Condition: New,"SkyWatcher 10"" Classic Dobsonian Telescope",1349,LOT3587,SWDOB250,239110,FALSE
+telescopes,Condition: New,"SkyWatcher 10"" 250mm Collapsible Dobsonian Telescope",1959,LOT3581,0,0,FALSE
+telescopes,Condition: New,Celestron StarSense Explorer LT 80AZ Telescope,735,LOT3561,22451,0,FALSE
+telescopes,Condition: New,Celestron StarSense Explorer LT 70AZ Telescope,579,LOT3545,22450,0,FALSE
+telescopes,Condition: New,Celestron StarSense Explorer LT 127AZ Telescope,865,LOT3550,22453,0,FALSE
+telescopes,Condition: New,Celestron StarSense Explorer LT 114AZ Telescope,675,LOT3546,22452,0,FALSE
+telescopes,Condition: New,"Celestron StarSense Explorer DX 5"" Telescope",1839,LOT3572,22462,0,FALSE
+telescopes,Condition: New,Celestron StarSense Explorer DX 130AZ Telescope,1145,LOT3564,22461,0,FALSE
+telescopes,Condition: New,Celestron StarSense Explorer DX 102 Telescope,1125,LOT3547,22460,0,FALSE
+telescopes,Condition: New,Celestron PowerSeeker 60AZ Telescope,319,LOT3544,0,214104,FALSE
+telescopes,Condition: New,Celestron NexStar 4SE Computerised Telescope,2085,LOT3570,11049,0,FALSE
+telescopes,Condition: New,Celestron Astromaster 130EQ Telescope with Phone Adapter and Barlow,969,LOT3578,0,31045,FALSE
+binoculars,Condition: New,BUSHNELL TROPHY EXTREME X56 8x56mm BINOS,349.99,BB335856,0,0,FALSE
+binoculars,Condition: New,Vortex Diamondback HD 8X42 Binocular,439,LOT3463,0,0,FALSE
+binoculars,Condition: New,Vortex Diamondback HD 12x50 Binocular,535,LOT3533,0,0,FALSE
+binoculars,Condition: New,Vortex Diamondback HD 10x50 Binocular,535,LOT3462,0,0,FALSE
+binoculars,Condition: New,Vortex Diamondback HD 10x42 Binocular,475,LOT3457,0,0,FALSE
+binoculars,Condition: New,Vortex Crossfire HD 8X42 Binocular,419,LOT3489,0,0,FALSE
+binoculars,Condition: New,Vortex Crossfire HD 10X42 Binocular,479,LOT3465,0,0,FALSE
+binoculars,Condition: New,Tasco OffShore 8x25 Binocular,169,LOT3512,0,0,FALSE
+binoculars,Condition: New,Swarovski EL 8.5x42 W B Binocular Green,4019,LOT3511,0,0,FALSE
+binoculars,Condition: New,Steiner Safari Ultrasharp 8x22 Binocular,389,LOT3516,STN4457-0900,0,FALSE
+binoculars,Condition: New,Steiner Safari Ultrasharp 10x26 Binocular,459,LOT3532,STN4477-0900,0,FALSE
+binoculars,Condition: New,Steiner Marine 7x50 Binocular,555,LOT3487,STN4841-0909,0,FALSE
+binoculars,Condition: New,Pentax 20x60 S Series SP WP Binocular,785,LOT3523,0,0,FALSE
+binoculars,Condition: New,Pentax 16x50 S Series SP Binocular,379,LOT3519,0,0,FALSE
+binoculars,Condition: New,Pentax 12x50 S-Series SP WP Binocular,605,LOT3569,0,0,FALSE
+binoculars,Condition: New,Pentax 12x50 S Series SP Binocular,319,LOT3493,0,0,FALSE
+binoculars,Condition: New,Pentax 10x50 S-Series SP WP Binocular,479,LOT3524,0,0,FALSE
+binoculars,Condition: New,Nikon Aculon A211 8x42 Binocular,269,LOT3470,0,0,FALSE
+binoculars,Condition: New,Nikon Aculon A211 16X50 Binocular,379,LOT3521,0,0,FALSE
+binoculars,Condition: New,Nikon Aculon A211 12X50 Binocular,319,LOT3518,0,0,FALSE
+binoculars,Condition: New,Nikon Aculon A211 10X50 Binocular,309,LOT3505,0,0,FALSE
+binoculars,Condition: New,Nikon Aculon A211 10-22X50 Binocular,459,LOT3479,0,0,FALSE
+binoculars,Condition: New,Leupold BX-2 Alpine HD 10x52 Binocular,675,LOT3517,0,0,FALSE
+binoculars,Condition: New,Leupold BX-1 McKenzie HD 10x50 Binocular,569,LOT3571,0,0,FALSE
+binoculars,Condition: New,Leupold BX-1 McKenzie HD 10x42 Binocular,629,LOT3526,0,0,FALSE
+binoculars,Condition: New,Leica Trinovid 10X42 HD Binocular,2199,LOT3483,0,0,FALSE
+binoculars,Condition: New,Kowa BD II 8x42 Binocular,1079,LOT3490,0,0,FALSE
+binoculars,Condition: New,Kowa 8x25 SV25 8 Binocular,289,LOT3484,0,0,FALSE
+binoculars,Condition: New,Kowa 10x25 SV25 10 Binocular,289,LOT3492,0,0,FALSE
+binoculars,Condition: New,Kowa 10x25 BD25-10 Binocular Green,50,LOT3567,0,0,FALSE
+binoculars,Condition: New,Konus Konusvue 8X40 W A Binocular,139,LOT3480,0,0,FALSE
+binoculars,Condition: New,Konus Konusvue 7 x 50 Binocular,139,LOT3481,0,0,FALSE
+binoculars,Condition: New,Konus Konusvue 10X50 W.A. Binocular,159,LOT3478,0,0,FALSE
+binoculars,Condition: New,Konus Konusrex 8x42 WA Binocular,379,LOT3515,0,0,FALSE
+binoculars,Condition: New,Celestron UpClose G2 20x50 Binocular,279,LOT3469,0,0,FALSE
+binoculars,Condition: New,Celestron Nature DX 8x42 Binocular,419,LOT3467,0,0,FALSE
+binoculars,Condition: New,Bushnell Trophy 10x42 Bone Collector Binocular,479,LOT3476,0,0,FALSE
+binoculars,Condition: New,Bushnell Prime 10x42 Roof Binocular,449,LOT3485,0,0,FALSE
+binoculars,Condition: New,Bushnell Powerview 2 20x50 Binocular,289,LOT3513,0,0,FALSE
+binoculars,Condition: New,Bushnell Marine 7x50 Waterproof Binocular,549,LOT3472,0,0,FALSE
+binoculars,Condition: New,Bushnell Forge 10x42 Terrain Roof Prism Binocular,1235,LOT3575,0,0,FALSE
+binoculars,Condition: New,Bushnell 10x40 Spectator Sport Perma focus Binocular,329,LOT3556,0,0,FALSE
+binoculars,Condition: New,Apexel 8x21 Compact Kids Binocular Yellow,89,LOT3473,0,0,FALSE
+binoculars,Condition: New,Apexel 8x21 Compact Kids Binocular Orange,95,LOT3474,0,0,FALSE
+binoculars,Condition: New,Apexel 8x21 Compact Kids Binocular Blue,95,LOT3475,0,0,FALSE

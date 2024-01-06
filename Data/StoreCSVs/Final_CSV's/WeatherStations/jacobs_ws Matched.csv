@@ -1,0 +1,87 @@
+type,brand,name,price,external_sku,internal_sku,simular_sku,tracked_sku
+weather-stations,Aercus Instruments,Aercus Instruments WS3085 Wireless Weather Station,338.99,WS3085N,0,0,FALSE
+weather-stations,Aercus Instruments,Aercus Instruments WS2085N Wireless Weather Station,280,WS2085N,0,0,FALSE
+weather-stations,Aercus Instruments,Aercus Instruments - Wireless Professional Rain Gauge with In/Out Temperature,80,KW9015N,0,0,FALSE
+weather-stations,Aercus Instruments,Aercus Instruments WS1173 - Desktop Wireless Weather Station,68.99,WS1173N,0,0,FALSE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Plus w/ Fan Aspirated Shield & WeatherLink Console,4860,6263NZ,0,0,TRUE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Plus & WeatherLink Console,4140,6262NZ,0,0,TRUE
+weather-stations,Davis,Davis Wireless Vantage Pro2 w/ Fan Aspirated Shield & WeatherLink Console,3348,6253NZ,0,0,TRUE
+weather-stations,Davis,Davis Vantage Pro2 Plus Sensor Suite - Wireless with 24hr Fan Aspirated Radiation Shield,3231,6328NZ,0,0,TRUE
+weather-stations,Davis,Davis Vantage Pro2 PLUS - Cabled Weather Station,2740,6162c,6162C,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 Plus Sensor Suite - Wireless,2629,6327NZ,0,0,FALSE
+weather-stations,Davis,Wireless Vantage Pro2 & WeatherLink Console,2616,6252NZ,6252NZ,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 GroWeather Sensor Suite - Wireless with 24hr Fan Aspirated Shield,2574,6825NZ,0,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 Plus Sensor Suite - Cabled,2464,6327C,0,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 GroWeather Sensor Suite - Wireless,1971,6820NZ,0,0,FALSE
+weather-stations,Davis,Davis Vantage Vue & WeatherLink Console,1824,6242NZ,0,0,TRUE
+weather-stations,Davis,Davis Vantage Pro2 GroWeather Sensor Suite - Cabled,1807,6820C,6820C,0,FALSE
+weather-stations,Davis,Davis Complete Wireless Soil Moisture & Temperature Station (with sensors),1807,6345CS,0,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 Cabled Weather Station with Standard Radiation Shield,1615,6152c,0,0,FALSE
+weather-stations,Davis,Davis Vantage Vue & WeatherLink Live Bundle with Console,1485,6120M,6120,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 Sensor Suite - Wireless,1369,6322NZ,6322,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 Sensor Suite - Cabled,1205,6322C,0,0,FALSE
+weather-stations,Davis,Davis Vantage Vue Sensor Suite & WeatherLink Live Bundle,1100,6110M,6110,0,FALSE
+weather-stations,Davis,Davis WeatherLink Console,799,6313USB,6313,0,FALSE
+weather-stations,Davis,Davis Vantage Vue ISS - Wireless,767,6357M,6357,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 Console (Cabled),734,6312C,0,0,FALSE
+weather-stations,Davis,Davis 6345NZ Wireless Leaf & Soil Moisture/Temperature Station (no sensors),734,6345NZ,6345,0,FALSE
+weather-stations,Davis,Davis Cabled Weather Envoy,515,6316C,0,0,FALSE
+weather-stations,Davis,Davis WeatherLink for Windows - Serial port connection,493,6510SER,0,0,FALSE
+weather-stations,Davis,Davis WeatherLink for Windows - USB port connection,493,6510USB,6510USB,0,FALSE
+weather-stations,Davis,Davis AirLink Air Quality Monitor,471,7210,0,0,FALSE
+weather-stations,Davis,Davis Replacement PM Sensor Kit for AirLink,189,7220,0,0,FALSE
+weather-stations,Konus,Konus MeteoWheel Weather Station,70,6188,0,0,FALSE
+weather-stations,Konus,Konus MeteoMax Weather Station,60,6190,0,0,FALSE
+weather-stations,Konus,Konus MeteoQuick Weather Station,50,6186,0,0,FALSE
+weather-stations,LaCrosse,La Crosse V42-PRO-AU La Crosse Professional WIFI Wireless Weather Station,399,V42-PRO-AU,0,0,TRUE
+weather-stations,LaCrosse,La Crosse Personal WIFI Weather Station with AccuWeather,391.78,328-10618-int,0,0,FALSE
+weather-stations,LaCrosse,La Crosse V40A-Pro Wi-Fi Professional Color Weather Station,389,V40A-PRO-INT,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Complete Personal WIFI Weather Station AccuWeather,385.65,C83100-int,0,0,FALSE
+weather-stations,LaCrosse,La Crosse WIFI Wind Speed Rain Colour Weather Station,340,V22-WRTH,V22-WRTH,0,FALSE
+weather-stations,LaCrosse,La Crosse Professional WIFI Colour Weather Station,338.99,C79790,C79790,0,FALSE
+weather-stations,LaCrosse,La Crosse WIFI Wind Weather Station AccuWeather Forecast,284,S82950,S82950,0,FALSE
+weather-stations,LaCrosse,La Crosse Large Wall Clock with Outdoor Temperature,279.11,513-1311OT,0,0,FALSE
+weather-stations,LaCrosse,La Crosse WIFI Wind Speed Colour Weather Station,262.84,V21-WTH,v21-WTH,0,FALSE
+weather-stations,LaCrosse,La Crosse Wireless Colour Weather Station,193.89,308-1414W,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Prof Wind Speed Colour Station,187.39,327-1417,0,327-1417v2,FALSE
+weather-stations,LaCrosse,La Crosse WIFI Colour LCD Weather Station,181.87,V10-TH,V10-TH,0,FALSE
+weather-stations,LaCrosse,La Crosse Large Textured Wall Clock with Indoor Temp,175.62,515-1419,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Compact Wall Clock Weather Station,174.27,WS9180IT,0,0,FALSE
+weather-stations,LaCrosse,La Crosse WiFi Projection Alarm Clock with AccuWeather,173.12,C82929,C82929,0,FALSE
+weather-stations,LaCrosse,La Crosse C85845 Wireless Colour Weather Station,158,C85845,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Wind Speed Weather Station,157.83,327-1417BW,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Wireless Color Weather Station with MOLD RISK Feature,146.46,308-1414MB,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Forecast Colour Station with Temp Alerts,139.01,308-1425C,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Weather Station with 3 Remote Sensors,135.36,308-1412-3TX,0,0,FALSE
+weather-stations,LaCrosse,La Crosse 724-1415BL Digital Rain Gauge with Backlight,134.87,724-1415BL,724-1415BL,0,FALSE
+weather-stations,LaCrosse,La Crosse Moon Phase Color LCD Forecast Weather Station,132.8,S84107,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Color Thermometer Station,120.99,308-1415,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Digital Back Light Wall Clock with Day Display,112,513-1419BLV4,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Digital Rain Monitor with Indoor Temperature,103.56,724-2310,724-2310,0,FALSE
+weather-stations,LaCrosse,La Crosse Moon Phase Wall Clock with Outdoor Temperature,101.62,513-1417AL,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Bluetooth Speaker Colour Weather Station,91.35,S86842,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Moon Phase Weather Station,86.74,308-1711BL,0,0,FALSE
+weather-stations,LaCrosse,Solar Digital Wall Clock Indoor Temp Humidity,86.63,WT8112U,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Digital Rain Monitor with Indoor Temperature,80.66,724-1409,724-1409,0,FALSE
+weather-stations,LaCrosse,La Crosse Wireless Thermometer,79.63,308-179OR,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Alarm Clock 2 USB Charging Station,76.08,C86224,0,0,FALSE
+weather-stations,LaCrosse,La Crosse WS-9160U-IT Wireless Weather Station,75.25,WS-9160U-IT-CBP,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Analog Wall Clock with Night Sensor,52.1,403-310,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Smart Talking Clock Time and Temperature Speaking,39.97,TALKING-CLOCK,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Digital Thermo Hygrometer Comfort Meter,37,WT-137U,0,0,FALSE
+weather-stations,LaCrosse,La Crosse 38cm Thermometer with Key Hider,22.18,204-115,0,0,FALSE
+weather-stations,LaCrosse,La Crosse Indoor/Outdoor Thermometer with Magnet,13.03,104-106BL,0,0,FALSE
+weather-stations,Tesa,Tesa Ws2980c Pro Weather Station,389,WS2900,Tws2980,0,FALSE
+weather-stations,Tesa,Tesa WS2980C LCD Display Screen Weather Station,338.99,WS2980CLCD,Tws2980,0,FALSE
+weather-stations,Tesa,TESA WS2900C-PRO 7 Inch Colour Wi-Fi Weather Station,299,WS2900C-PRO,0,Tws2980,FALSE
+weather-stations,Tesa,Tesa WS1081 Ver3 Touch Screen with PC interface Weather Station,236.6,WS1081,Tws1081,0,FALSE
+weather-stations,Tesa,Tesa Complete Outdoor Unit For WS1081,189,WS1081-OUTDOOR,TX81RW,0,FALSE
+weather-stations,Tesa,Tesa WS1151 Moon Phase Weather Station,98.32,WS1151,0,0,FALSE
+weather-stations,Tesa,TESA Thermo-Hygrometer,85.13,WS710,0,0,FALSE
+weather-stations,Tesa,Rain Sensor For WS1081,80,WS1081-RAIN,0,0,FALSE
+weather-stations,Tesa,Tesa ws2980c Rain Sensor Weather Station,80,WS2980C-RAIN,0,0,FALSE
+weather-stations,Tesa,Wind Direction For WS1081,49,WH1081-DIRECT,0,0,FALSE
+weather-stations,Tesa,Tesa ws2980c Wind Direction Weather Station,49,WS2980C-WIND,0,0,FALSE
+weather-stations,Tesa,Tesa ws2980c Anenometer Weather Station,49,WS2980C-ANENOM,0,0,FALSE
+weather-stations,Tesa,Tesa Wind Anemometer For WS1081,42,WH1081-WIND,0,0,FALSE
+weather-stations,Tesa,TESA Desktop Wireless Thermometer,39.86,WS0200,0,0,FALSE

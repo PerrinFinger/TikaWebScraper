@@ -1,0 +1,142 @@
+type,brand,name,price,external_sku,internal_sku,simular_sku,tracked_sku
+weather-stations,Digitech,Digitech Wireless In &amp; Out LCD Thermometer,26.9,31867,0,0,FALSE
+weather-stations,Digitech,Digitech Wireless Weather Station with Long Range Sensor,269,182792,0,0,FALSE
+weather-stations,Digitech,Digitech Ultrasonic Water Tank Level Meter with Thermo Sensor,139,94394,0,0,FALSE
+weather-stations,Digitech,Digitech Wireless Weather Station with Outdoor Sensor,89.99,31872,0,0,FALSE
+weather-stations,Digitech,Digitech Weather Station with Mini LCD,179,182791,0,0,FALSE
+weather-stations,Digitech,Digitech Temperature/Humidity Weather Station,119,182790,0,0,FALSE
+weather-stations,Digitech,Digitech Digital Rain Gauge with Temperature,129,94397,0,0,FALSE
+weather-stations,Davis,Davis 6410 Anemometer for Vantage Pro2 and Vantage Pro,569,73665,0,0,FALSE
+weather-stations,Davis,Davis Instruments 6250 Vantage Vue Wireless Weather Station,1025,15733,6250,0,FALSE
+weather-stations,Airmar,Airmar WS2-USB U200 WeatherStation USB Gateway NMEA 2000,1129,46627,0,0,FALSE
+weather-stations,Airmar,Airmar 200WX Waterproof WeatherStation Instrument NMEA 0183 / 2000,3209,129953,0,0,FALSE
+weather-stations,White Label,Airmar WX to WiFi Adapter with SD logging,1349,193492,0,0,FALSE
+weather-stations,Davis,Davis Cabled Vantage Pro2 ISS,1389,73636,6322C,0,FALSE
+weather-stations,Davis,Davis Sonic Anemometer,1159,146214,0,0,FALSE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Weather Station with WeatherLink Console,2509,203131,6252NZ,0,FALSE
+weather-stations,Davis,Davis Cabled Vantage Pro2 Plus with Standard Radiation Shield,3589,73629,6262NZ,0,FALSE
+weather-stations,Davis,Davis Wireless Leaf &amp; Soil Moisture/Temperature Station,839,73645,0,0,TRUE
+weather-stations,Davis,Davis Vantage Vue Weather Station with WeatherLink Console,1749,203130,0,0,TRUE
+weather-stations,Davis,Davis Cabled Vantage Pro2 Plus Integrated Sensor Suite,2829,73637,0,0,TRUE
+weather-stations,Davis,Davis Weatherlink for Windows - Serial Connection,569,73652,0,0,FALSE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Weather Station with WeatherLink Console and 24-Hour Fan,3209,203140,0,0,FALSE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Plus Integrated Sensor Suite,3019,73643,0,0,FALSE
+weather-stations,Davis,Davis Anemometer for Weather Monitor or Wizard,569,73666,0,0,FALSE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Plus Weather Station with WeatherLink Console,3969,203141,0,0,FALSE
+weather-stations,Davis,Davis Vantage PRO2 Weather Station Wired Version,2139,15732,0,0,FALSE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Plus ISS with 24-Hr Fan-Aspirated Radiation Shield,3719,73644,0,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 GroWeather Sensor Suite - Wireless with 24-Hour Fan,2959,203101,0,0,FALSE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Plus Weather Station with WeatherLink Console and 24-Hour Fan,4659,203142,0,0,TRUE
+weather-stations,Furuno,Furuno FAX-30 Black Box WeatherFax and NavTex Receiver,2299,77331,0,0,FALSE
+weather-stations,Davis,Davis 6110 Vantage Vue and WeatherLink Live Bundle,1199,146212,6110,0,FALSE
+weather-stations,Davis,Davis 6120 Vantage Vue and WeatherLink Live Bundle with Console,1579,146213,6120,0,FALSE
+weather-stations,Davis,Davis Vantage Vue Complete Tune Up Kit,115,164999,0,0,FALSE
+weather-stations,Davis,Davis Vantage Pro 2 Complete Tune Up Kit,369,165001,0,0,FALSE
+weather-stations,Digitech,Digitech Wireless Weather Station with Colour LCD,389,182793,0,0,FALSE
+weather-stations,Digitech,Digitech Wireless Weather Station with Colour LCD and WiFi,249,182794,0,0,FALSE
+weather-stations,Digitech,Digitech Smart WiFi Multi-Channel LCD Weather Station,99.99,182739,0,0,FALSE
+weather-stations,Airmar,Airmar WS-120WX WeatherStation Instrument NMEA0183 and NMEA2000,1949,129952,0,0,FALSE
+weather-stations,Airmar,Airmar 120WX NMEA 0183 WeatherStation No Relative Humidity Heater,2909,193495,0,0,FALSE
+weather-stations,Airmar,Airmar WS-220WX-RX WeatherStation with Relative Humidity NMEA0183/2000,3139,46620,0,0,FALSE
+weather-stations,Airmar,Airmar 2000WX WeatherStation Instrument NMEA 0183/2000,3139,46621,0,0,FALSE
+weather-stations,Airmar,Airmar WS-220WX WeatherStation Instrument NMEA0183 and NMEA2000,2979,129954,0,0,FALSE
+weather-stations,White Label,Airmar WX to ENET Adapter with SD Logging,1349,193491,0,0,FALSE
+weather-stations,Airmar,Airmar WS-220WX-RS232 WeatherStation Instrument RS-232 Output,3139,129956,0,0,FALSE
+weather-stations,Airmar,Airmar WS-220WX-HTR WeatherStation Instrument with 60W Heated Cap,3439,129955,0,0,FALSE
+weather-stations,Davis,Davis Wireless Vantage Pro2 with 24-Hour Fan Aspirated Radiation Shield,2335,73630,0,0,TRUE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Plus including UV &amp; Solar Radiation Sensors,2885,73631,0,0,TRUE
+weather-stations,Davis,Davis Wireless Vantage Pro2 Plus with 24-Hr Fan Aspirated Radiation Shield,3449,73632,0,0,TRUE
+weather-stations,Davis,Davis Wireless Vantage Pro2 ISS with 24-Hr Fan Aspirated Radiation Shield,1419,73641,0,0,TRUE
+weather-stations,Davis,Davis Agricultural/Turf Management Module,129,73653,0,0,FALSE
+weather-stations,Davis,Davis Vantage Pro2 Wireless Console/Receiver,649,73678,0,0,FALSE
+weather-stations,Davis,Davis Vantage PRO2 Wireless Weather Station,1759,15731,0,0,FALSE
+weather-station-sensors,Maretron,Maretron TP-AAP-1 Ambient Air Temperature Probe,69.99,193496,0,0,FALSE
+weather-station-sensors,Maretron,Maretron Immersion Tank Temperature Probe,215,193497,0,0,FALSE
+weather-station-sensors,Across Ocean Systems,Across Ocean Systems 1 Phase AC Monitoring NMEA 2000 Module,575,193500,0,0,FALSE
+weather-station-sensors,Across Ocean Systems,Across Ocean Systems High Temperature Sensor,529,193531,0,0,FALSE
+weather-station-sensors,Maretron,Maretron Indoor Humidity/Temperature Sensor,459,193498,0,0,FALSE
+weather-station-sensors,Across Ocean Systems,Across Ocean Systems Standard Temperature Sensor,369,193499,0,0,FALSE
+weather-station-sensors,Davis,Davis Vantage Pro2 GroWeather Sensor Suite - Cabled,2079,203084,0,0,FALSE
+weather-station-sensors,Davis,Davis Vantage Pro2 GroWeather Sensor Suite - Wireless,2269,203085,0,0,FALSE
+weather-station-sensors,Digitech,Digitech Spare Thermometer Sensor for XC0322,29.9,31869,0,0,FALSE
+weather-station-sensors,Airmar,Airmar WeatherStation Replacement Humidity Sensor,389,46645,0,0,FALSE
+weather-station-sensors,White Label,Temperature/Humidity Datalogger,145,94314,0,0,FALSE
+weather-station-sensors,Davis,Davis Soil Moisture Sensor for Vantage Pro and Vantage Pro2 Stations,215,73646,0,0,TRUE
+weather-station-sensors,Davis,Davis 6477 Temperature Probe with RJ Connector,115,125774,0,0,FALSE
+weather-station-sensors,Davis,Davis Wireless Vantage Pro2 Integrated Sensor Suite,1569,73640,0,0,FALSE
+weather-station-sensors,Davis,Davis Vantage Vue Wireless Integrated Sensor Suite,879,73639,0,0,TRUE
+weather-station-sensors,Davis,Davis Anemometer/Sensor Transmitter Kit,589,73649,0,0,FALSE
+weather-station-sensors,Davis,Davis Solar Radiation Sensor,619,73633,0,0,TRUE
+weather-station-sensors,Davis,Davis 6834 Temperature/Humidity Sensor with Radiation Shield,239,125771,0,0,FALSE
+weather-station-sensors,Davis,Davis UV Sensor,1069,73634,0,0,TRUE
+weather-station-sensors,Davis,Davis 6475 Stainless Steel Temperature Probe with RJ Connector,189,125773,0,0,FALSE
+weather-station-sensors,Davis,Davis Sensor Mounting Shelf,125,73635,0,0,FALSE
+weather-station-sensors,Davis,Davis Leaf Wetness Sensor for Vantage Pro and Vantage Pro2 Stations,409,73647,0,0,FALSE
+weather-station-sensors,Davis,Davis Temperature/Humidity Sensor with Radiation Shield,409,73667,0,0,FALSE
+weather-station-sensors,Furuno,Furuno FI-5001 Sensor Wind Transducer Assembly for FI50/70,1039,77187,0,0,FALSE
+weather-station-sensors,White Label,USB Temperature/Humidity Datalogger with LCD,199,94315,0,0,FALSE
+weather-station-sensors,Davis,Davis Temperature/Humidity Sensor with 24-hour Fan-Aspirated Radiation Shield,879,73668,0,0,FALSE
+weather-station-sensors,Davis,Davis 6838 24-Hour Fan Aspirated Radiation Shield,809,125772,0,0,FALSE
+weather-station-accessories,Davis,Davis AeroCone Rain Collector with Vantage Pro2 Mounting Base,379,146216,0,0,FALSE
+weather-station-accessories,Davis,Davis 7345.114 Front Cover for VP ISS,85.99,125780,0,0,FALSE
+weather-station-accessories,Davis,Davis Mounting Kit for Vantage Pro Systems,119,73657,7717,0,FALSE
+weather-station-accessories,Davis,Davis 7345.953 Wind Speed Bearing Cartridge for 6410 Anemometers,54.99,133688,0,0,FALSE
+weather-station-accessories,Davis,Davis 7346.070 Temp/RH Digital Board Vantage PRO2,109,125778,0,0,FALSE
+weather-station-accessories,Davis,Davis Vantage Pro2 Tipping Spoon Replacement Kit,129,146221,0,0,FALSE
+weather-station-accessories,Airmar,Airmar WeatherStation NMEA 0183 Cables for Furuno 7-Pin Connector,189,69539,0,0,FALSE
+weather-station-accessories,Davis,Davis Allen Wrench for Wind Sensors 0.05in,4.59,146220,0,0,FALSE
+weather-station-accessories,Davis,Davis AeroCone Rain Collector with Flat Base,339,146215,0,0,FALSE
+weather-station-accessories,Davis,Davis WeatherLink Console,989,203133,0,0,TRUE
+weather-station-accessories,Davis,Davis USB Power Cable for Consoles/Envoys,24.99,146219,0,0,FALSE
+weather-station-accessories,Airmar,Airmar NMEA 2000 5-Pin DeviceNet Male Cable,195,46626,0,0,FALSE
+weather-station-accessories,Airmar,Airmar NMEA 0183 WeatherStation Cable with Airmar Connector,259,46636,0,0,FALSE
+weather-station-accessories,Airmar,Airmar NMEA 0183 WeatherStation Cable for Furuno 7-Pin,399,46642,0,0,FALSE
+weather-station-accessories,Airmar,Airmar NMEA 0183 WeatherStation HTR Cable with Airmar Connector,399,69540,0,0,FALSE
+weather-station-accessories,Airmar,Airmar WS-USB NMEA 0183 USB Converter,529,46647,0,0,FALSE
+weather-station-accessories,Airmar,Airmar WeatherStation NMEA 0183/2000 Combination Cable Kit,819,46639,0,0,FALSE
+weather-station-accessories,Airmar,Airmar WS-USB-HTR NMEA 0183 USB Converter for Heater Units,839,46648,0,0,FALSE
+weather-station-accessories,Davis,Davis 6670 Universal Mounting Bracket,115,125770,0,0,FALSE
+weather-station-accessories,Davis,Davis 7905L Replacement Wind Cups Large with Horizontal Magnet,34.5,133685,0,0,FALSE
+weather-station-accessories,Davis,Davis 6625 Replacement Power Adaptor for Vantage Vue Console,26.5,133683,0,0,FALSE
+weather-station-accessories,Davis,Davis 7906L D-Shaft Replacement Wind Vane for VP2,34.5,125781,0,0,FALSE
+weather-station-accessories,Davis,Davis 6510USB WeatherLink USB for Vantage Pro2 and Vue,569,15735,0,0,FALSE
+weather-station-accessories,Davis,Davis Replacement Wind Vane For Vantage Vue,34.5,125777,0,0,FALSE
+weather-station-accessories,Davis,Davis Universal Shelter,399,73658,0,0,FALSE
+weather-station-accessories,Davis,Davis Wireless Weather Envoy,589,73669,0,0,FALSE
+weather-station-accessories,Davis,Davis Omni Antenna for Long-Range Repeater,629,73674,0,0,FALSE
+weather-station-accessories,Davis,Davis 7758B Standard Motor Kit for Fan-Aspirated Radiation Shield with Batteries,239,125783,0,0,FALSE
+weather-station-accessories,Davis,Davis Solar Power Kit,989,73659,0,0,FALSE
+weather-station-accessories,Davis,Davis Cabled Weather Envoy,589,73670,0,0,FALSE
+weather-station-accessories,Davis,Davis Yagi Antenna for Long-Range Repeater,629,73675,0,0,FALSE
+weather-station-accessories,Davis,Davis Replacement NZ USB Charger,11.5,203129,0,0,FALSE
+weather-station-accessories,Davis,Davis Heavy Duty Solar Power Kit,1069,73660,0,0,FALSE
+weather-station-accessories,Davis,Davis Wireless Repeater with Solar Power,939,73672,0,0,FALSE
+weather-station-accessories,Davis,Davis Vantage Pro2 Cabled Console,839,73679,0,0,FALSE
+weather-station-accessories,Davis,Davis Daytime Fan Aspirated Radiation Shield Kit,489,73661,0,0,FALSE
+weather-station-accessories,Davis,Davis Wireless Long-Range Repeater with Solar Power,1199,73673,0,0,FALSE
+weather-station-accessories,Davis,Davis Replacement Wind Cups For Vantage Vue,34.5,125776,0,0,FALSE
+weather-station-accessories,Davis,Davis 6462 AeroCone Replacement Rain Cone Kit,125,125779,0,0,FALSE
+weather-station-accessories,Furuno,Furuno 000-010-511 Wind Transducer Cable Set for FI5001 30m,209,77186,0,0,FALSE
+weather-station-accessories,Davis,Davis Mounting Tripod,399,73656,7716,0,FALSE
+weather-station-accessories,Davis,Davis WeatherLink Live Wi-Fi Weather Data Streaming Device,649,133694,0,0,FALSE
+weather-station-accessories,White Label,KTA-282 Modbus TCP Weather Station Gateway,489,146217,0,0,FALSE
+weather-station-accessories,White Label,KTA-302 BACnet MS/TP Weather Station Gateway,429,146218,0,0,FALSE
+weather-station-accessories,Davis,Davis 6351 Console Vantage Vue,499,15734,0,0,FALSE
+weather-station-accessories,WeatherHawk,Weatherhawk Wind Meter Tripod Adapter,9.19,73695,0,0,FALSE
+weather-station-accessories,Davis,Davis 7876 Standard 4-Conductor Cable 8ft,35.99,125717,0,0,FALSE
+weather-station-accessories,WeatherHawk,Weatherhawk SM-WT Wind Tunnel,45.99,73687,0,0,FALSE
+weather-station-accessories,Davis,Davis 7876 Standard 4-Conductor Cable 100ft,139,125719,0,0,FALSE
+weather-station-accessories,Davis,Davis 7876 Standard 4-Conductor Cable 200ft,209,125720,0,0,FALSE
+weather-station-accessories,Davis,Davis Vantage Connect for Wireless Systems,1779,73676,0,0,FALSE
+weather-station-accessories,Davis,Davis 7876 Standard 4-Conductor Cable 40ft,109,125718,0,0,FALSE
+weather-station-accessories,WeatherHawk,Weatherhawk SkyMate/SkyMaster Impeller,27.5,73689,0,0,FALSE
+weather-station-accessories,Davis,Davis AeroCone Rain Collector with Flat Base for Vantage Pro2,179,73663,0,0,FALSE
+weather-station-accessories,Davis,Davis 7721 Rain Collector Cone and Heater,479,125775,0,0,FALSE
+weather-station-accessories,Davis,Davis Rain Gauge with Pole Mount Base for Vantage Pro2,209,73664,0,0,FALSE
+weather-station-accessories,Davis,Davis 6520 WeatherLink for Mac OS X,329,15736,0,0,FALSE
+weather-station-accessories,Davis,Davis 6810 EnviroMonitor Node,789,125716,0,0,FALSE
+weather-station-accessories,Davis,Davis Rain Collector Heater,409,73662,0,0,FALSE
+weather-station-accessories,Davis,Davis 6331 AC Powered Wireless Sensor Transmitter,359,125769,0,0,FALSE
+weather-station-accessories,Davis,Davis 7758 Standard Motor Kit for Fan-Aspirated Radiation Shield,155,125782,0,0,FALSE
+weather-station-accessories,Davis,Davis 7876.008 Spare 4-Conductor Cable 2.4m,74.99,133689,0,0,FALSE
+weather-station-accessories,WeatherHawk,Weatherhawk WindMate Impeller,45.99,73688,0,0,FALSE

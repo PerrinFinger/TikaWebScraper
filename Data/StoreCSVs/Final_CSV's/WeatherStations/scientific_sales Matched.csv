@@ -1,0 +1,29 @@
+type,brand,name,price,external_sku,internal_sku,simular_sku,tracked_sku
+weather-stations/,La Crosse,La Crosse C79790 Professional WiFi Colour Weather Station,340,C79790,C79790,0,FALSE
+weather-stations/,TESA,TESA WS2950-Pro Colour WIFI Weather Station,349,WS2950C-Pro,0,0,TRUE
+weather-stations/,TESA,TESA WS2980-Pro Colour WIFI Weather Station,349,WS2980C-Pro,"Tws2980",0,FALSE
+weather-stations/,Davis Instruments,Davis 6322 Wireless Vantage Pro2 Integrated Sensor Suite Bundle (No Console),1225,6322NZbundle,6322,0,FALSE
+weather-stations/,Davis Instruments,Davis 6152 Wireless Vantage Pro2 with Standard Radiation Shield Bundle (with Console),1760,6152NZbundle,0,0,TRUE
+weather-stations/,Aercus Instruments,Aercus Instruments WS3085 Wireless Weather Station,339,WS3085N,0,0,FALSE
+weather-stations/,Davis Instruments,Davis 6120 Vantage Vue and WeatherLink Live Bundle (with Console),1580,6120MNZ,6120,0,FALSE
+weather-stations/,Davis Instruments,Davis 6110 Vantage Vue and WeatherLink Live Bundle (No Console),1200,6110MNZ,0,0,TRUE
+weather-stations/,Netatmo,Netatmo Smart Home Weather Station Gift Bundle,319,NWS01-Pbundle,0,0,FALSE
+weather-stations/,Davis Instruments,"Davis 6163 Wireless Vantage Pro2 Plus  with UV, Solar Radiation and 24-HR Fan Aspiration (with Console) Bundle",3450,6163bundle,0,0,TRUE
+weather-stations/,La Crosse,La Crosse V30 WiFi Professional Colour Weather Station with AccuWeather Forecast,384,v30,0,0,TRUE
+weather-stations/,Davis Instruments,Davis 6153 Wireless Vantage Pro2 with 24-Hour Fan Aspirated Radiation Shield,2335,6153NZ,6153-oos,0,FALSE
+weather-stations/,Davis Instruments,Davis 6250 Vantage Vue Professional Station,1025,6250NZ,6250,0,FALSE
+weather-stations/,Davis Instruments,Davis 6162C Cabled Vantage Pro2 Plus with UV  and Solar Radiation Sensor,2740,6162CNZ,0,6152nz,FALSE
+weather-stations/,Davis Instruments,Davis 6152C Cabled Vantage Pro2 with Standard Radiation Shield,1615,6152CNZ,0,6152nz,FALSE
+weather-stations/,Davis Instruments,Davis 6152 Wireless Vantage Pro2 with Standard Radiation Shield,1760,6152NZ,0,6152nz,FALSE
+weather-stations/,Davis Instruments,Davis 6162 Wireless Vantage Pro2 Plus with UV & Solar Radiation Sensor,2885,6162NZ,0,"6162C",FALSE
+weather-stations/,Davis Instruments,"Davis 6163 Wireless Vantage Pro2 Plus with UV, Solar Radiation Sensor and 24-Hr Fan Aspiration",3450,6163NZ,0,0,TRUE
+weather-stations/,Aercus Instruments,Aercus Instruments  WS1173 - Desktop Wireless Weather Station,69,WS1173N,0,0,FALSE
+weather-stations/,Netatmo,Netatmo Smart Home Weather Station,319,NWS01-P,0,0,FALSE
+weather-stations/,La Crosse,La Crosse C82929v2 WiFi Projection Alarm Clock with AccuWeather,173,C82929v2,C82929,0,FALSE
+weather-stations/?sort=featured&page=2,La Crosse,La Crosse S82950 WiFi Wind Weather Station with AccuWeather Forecast and Free Leak Detector,264,S82950,S82950,0,FALSE
+weather-stations/?sort=featured&page=2,La Crosse,La Crosse V10-TH Remote Monitoring WiFi Colour Weather Station,181,V10-TH,V10-TH,0,FALSE
+weather-stations/?sort=featured&page=2,La Crosse,La Crosse V21-WTH Wireless WiFi Remote Monitoring Wind Speed Station,260,V21-WTH,"v21-WTH",0,FALSE
+weather-stations/?sort=featured&page=2,La Crosse,La Crosse V22-WRTH Professional WiFi Colour Weather Station,369,V22-WRTH,V22-WRTH,0,FALSE
+weather-stations/?sort=featured&page=2,La Crosse,La Crosse V40a-PRO WiFi Professional Colour Weather Station (ver 2),389,V40-PRO,V40-PRO,0,FALSE
+weather-stations/?sort=featured&page=2,Aercus Instruments,Aercus Instruments WS2085 Wireless Weather Station,299,WS2085N,0,0,FALSE
+weather-stations/?sort=featured&page=2,Aercus Instruments,Aercus Instruments  WeatherMaster - Advanced Weather Station with WiFi and optional extra sensors,494,WeatherMasterN,0,0,FALSE

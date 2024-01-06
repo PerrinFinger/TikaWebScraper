@@ -1,0 +1,242 @@
+type,brand,name,price,external_sku,internal_sku,simular_sku,tracked_sku
+accessories,Astronz,Telescope to Smart Phone Adapter,19,A-PHONE,0,0,FALSE
+accessories,Astronz,Newtonian Laser Collimator,95,Z-LC,0,0,TRUE
+accessories,Astronz,Ball Head,59,M-BALLQ03,0,0,FALSE
+accessories,Astronz,Green Laser Pointer (RESTRICTED ITEM),39,Z-GLAS,0,0,FALSE
+accessories,Astronz,NZ Power Supply for Mounts 12V / 2A,20,M-PWRCEM,0,0,FALSE
+accessories,Astronz,"Focal Reducer 0.5x 1.25""",32,Z-FR125,0,0,FALSE
+accessories,Astronz,"Coma Corrector 2""",149,Z-COMA,0,0,FALSE
+accessories,Astronz,NZ Power Supply for AZ Mount Pro,20,M-PWRAZ,0,0,FALSE
+accessories,Astronz,"Focal Reducer 0.5x 2""",59,Z-FR2,0,0,FALSE
+accessories,Astronz,Focal Reducer 0.75x,149,Z-FRRC75,0,0,FALSE
+accessories,Astronz,Quick Release Plate for Heavy Duty Tripod,22,M-TRIHQ,0,0,FALSE
+accessories,Astronz,"Focuser Crayford 2"" 10-1 SCT",245,Z-FCRMSCT,0,0,FALSE
+accessories,Astronz,Quick Release Plate for Professional Tripod,22,M-TRIQ,0,0,FALSE
+accessories,Celestron,Celestron 0.63x Focal Reducer,295,Z-FRC63,0,0,FALSE
+accessories,DayStar,DayStar Quark Classic Solar Filter,2575,F-SOLQC,0,0,FALSE
+accessories,GSO,"Moon Filter 1.25""",16,F-MOON,0,0,FALSE
+accessories,GSO,"Camera Adapter 1.25""",32,A-CA,0,0,FALSE
+accessories,GSO,8x50 Right Angle Finder,135,D-F850R,0,0,FALSE
+accessories,GSO,"Barlow Lens 2x 1.25""",36,E-BL2,0,0,FALSE
+accessories,GSO,"Adapter T2 to 2""",38,A-FF145,0,0,FALSE
+accessories,GSO,"Barlow Lens 2x ED 2""",129,E-BL22,0,0,FALSE
+accessories,GSO,8x50mm Finder,120,D-F850,0,0,FALSE
+accessories,GSO,"Barlow Lens 2.5x 3-element 1.25""",49,E-BL25,0,0,FALSE
+accessories,GSO,"Moon Filter 2"" (#58A)",29,F-MOON2,0,0,FALSE
+accessories,GSO,"Barlow Lens 3x ED 1.25""",55,E-BL3,0,0,FALSE
+accessories,GSO,"Filter #80A Medium Blue 1.25""",13.5,F-180A,0,0,FALSE
+accessories,GSO,"Quartz Diagonal 2""",269,Z-MD2Q,0,0,FALSE
+accessories,GSO,"Barlow Lens 5x 3-element 1.25""",65,E-BL5,0,0,FALSE
+accessories,GSO,Camera Adapter CPL to T2,15,A-CPL42T,0,0,FALSE
+accessories,GSO,"Extension Tube 50mm 2""",48,A-ET50S,0,0,FALSE
+accessories,GSO,"Filter #25 Red 1.25""",18,F-125,0,0,FALSE
+accessories,GSO,"Filter #12 Yellow 1.25""",13.5,F-112,0,0,FALSE
+accessories,GSO,"Adapter 1.25"" to 2""",29,A-SC125,0,0,FALSE
+accessories,GSO,"Extension Tube 80mm 2""",48,A-ET80S,0,0,FALSE
+accessories,GSO,Dovetail Mount,58,A-DOVE,0,0,FALSE
+accessories,GSO,"Adapter Schmidt-Cassigrain Thread to 2""",38,A-FF147,0,0,FALSE
+accessories,GSO,Filter #ND96-0.6,18,F-ND25,0,0,FALSE
+accessories,GSO,"Crayford 2"" 10:1 Micro Focuser for Reflector",245,Z-FCRM,0,0,FALSE
+accessories,GSO,Filter #ND96-0.3,18,F-ND50,0,0,FALSE
+accessories,GSO,"Filter #80A Medium Blue 2""",24,F-280A,0,0,FALSE
+accessories,GSO,Filter #ND96-0.9,18,F-ND13,0,0,FALSE
+accessories,GSO,"Extension Tube 35mm 2""",45,A-ET35S,0,0,FALSE
+accessories,GSO,"Filter #12 Yellow 2""",24,F-212,0,0,FALSE
+accessories,GSO,"Filter #25 Red 2""",24,F-225,0,0,FALSE
+accessories,GSO,"Quartz Diagonal 2"" SCT",269,Z-MD2QSCT,0,0,FALSE
+accessories,GSO,RC8 Collimation Ring,149,Z-RC8COL,0,0,FALSE
+accessories,GSO,"Focuser Linear Bearing 2"" 10-1 SCT",315,Z-FLBSCT,0,0,FALSE
+accessories,GSO,"IR Blocking Filter 1.25""",22,F-IR,0,0,FALSE
+accessories,GSO,Vixen Dovetail Plate for RC8,90,Z-DOVERC,0,0,FALSE
+accessories,GSO,"Extension Tube 1.25"" 25mm",12,A-ET25,0,0,FALSE
+accessories,GSO,"IR Blocking Filter 2""",36,F-IR2,0,0,FALSE
+accessories,GSO,6x30mm Finder,85,D-F630,0,0,FALSE
+accessories,GSO,"Mirror Diagonal 2"" SCT BK7",249,Z-MD2DSCT,0,0,FALSE
+accessories,GSO,"Filter #21 Orange 2""",32,F-221,0,0,FALSE
+accessories,GSO,Focuser 1.25' Crayford (Reflector),145,Z-FCRM125,0,0,FALSE
+accessories,GSO,"Focuser Linear Bearing 2"" 10-1 Refractor",335,Z-FLBR96,0,0,FALSE
+accessories,GSO,"Focuser Linear Bearing 2"" 10-1 Reflector",299,Z-FLB,0,0,FALSE
+accessories,GSO,"Focuser Crayford 2"" 10-1 Refractor",290,Z-FCRMR96,0,0,FALSE
+accessories,iOptron,iOptron Counterweight 2kg,80,M-CW2,0,0,FALSE
+accessories,iOptron,iOptron Counterweight 4.5kg,138,M-CW4,0,0,FALSE
+accessories,iOptron,iOptron Counterweight 1.35kg,58,M-CW1,0,0,FALSE
+accessories,iOptron,iOptron Counterweight 5kg,139,M-CW5,0,0,FALSE
+accessories,iOptron,"iOptron 1.5"" Tripod Carry Bag",75,M-BAG1,0,0,FALSE
+accessories,iOptron,iOptron iGuider Autoguider System,425,D-IG,0,0,FALSE
+accessories,iOptron,CEM25 / ZEQ25 iPolar Adapter,35,C-IPA25,0,0,FALSE
+accessories,iOptron,iOptron Counterweight 2.5kg,99,M-CW25,0,0,FALSE
+accessories,iOptron,iStarFi for CEM40,199,M-STARFI40,0,0,FALSE
+accessories,iOptron,iOptron Counterweight 10kg,275,M-CW10,0,0,FALSE
+accessories,iOptron,iOptron Counterweight 9.5kg,245,M-CW9,0,0,FALSE
+accessories,iOptron,Secondary Dovetail Saddle,149,M-AZDOVE,0,0,FALSE
+accessories,iOptron,SkyTracker Pro Counterweight Package,160,M-CWSTX,0,0,FALSE
+accessories,iOptron,iOptron Electric Focuser for Ritchey-Chretien OTA,375,Z-FELRC,0,0,FALSE
+accessories,iOptron,HEQ6 / CGEM / NEQ6 / AZEQ6 iPolar Adapter,42,C-IPACGEM,0,0,FALSE
+accessories,iOptron,AVX iPolar Adapter,41,C-IPAAVX,0,0,FALSE
+accessories,iOptron,HEQ5 iPolar Adapter,42,C-IPAHEQ5,0,0,FALSE
+accessories,iOptron,SkyGuider Pro Battery,35,M-SGXY,0,0,FALSE
+accessories,Optolong,"Variable Polarising Filter 1.25""",69,F-VPOL1,0,0,FALSE
+accessories,Optolong,"UHC Filter 1.25""",99,F-UHC1,0,0,FALSE
+accessories,Optolong,"UV/IR Cut Filter 2""",115,F-UVIR2,0,0,FALSE
+accessories,Optolong,"Variable Polarising Filter 2""",85,F-VPOL2,0,0,FALSE
+accessories,Optolong,"L-Pro Filter 2""",325,F-LPRO2,0,0,FALSE
+accessories,Optolong,"UHC Filter 2""",149,F-UHC2,0,0,FALSE
+accessories,Optolong,"L-eXtreme Filter 2""",495,F-LEXT2,0,0,FALSE
+accessories,Optolong,"UV-IR Cut Filter 1.25""",79,F-UVIR1,0,0,FALSE
+accessories,Optolong,"L-eNhance Filter 2""",395,F-LENH2,0,0,FALSE
+accessories,Optolong,"OIII Visual Filter 1.25""",135,F-OIIIV1,0,0,FALSE
+accessories,Optolong,"OIII Narrowband Filter 2""",399,F-OIIIC2,0,0,FALSE
+accessories,Optolong,UHC Clip Filter for Canon EOS APS-C,175,F-UHCCAPS,0,0,FALSE
+accessories,Optolong,"SII Narrowband Filter 2""",399,F-SII2,0,0,FALSE
+accessories,Optolong,"Moon & Skyglow Filter 2""",85,F-MSG2,0,0,FALSE
+accessories,Optolong,"H-Alpha Narrowband Filter 2""",425,F-HA2,0,0,FALSE
+accessories,Optolong,"LRGB Filter 2""",595,F-LRGB2,0,0,FALSE
+accessories,Optolong,"LRGB Filter 1.25""",399,F-LRGB1,0,0,FALSE
+accessories,Optolong,L-Pro Clip Filter for Canon EOS APS-C,399,F-LPROCAPS,0,0,FALSE
+accessories,Optolong,"H-Alpha Narrowband Filter 1.25""",285,F-HA1,0,0,FALSE
+accessories,Optolong,"SII Narrowband Filter 1.25""",265,F-SII1,0,0,FALSE
+accessories,Optolong,L-Pro Clip Filter for Nikon FF,425,F-LPRON,0,0,FALSE
+accessories,Optolong,"L-eNhance Filter 1.25""",299,F-LENH1,0,0,FALSE
+accessories,Optolong,"OIII Narrowband Filter 1.25""",265,F-OIIIC1,0,0,FALSE
+accessories,Optolong,"OIII Visual Filter 2""",185,F-OIIIV2,0,0,FALSE
+accessories,Optolong,L-Pro Clip Filter for Canon FF,425,F-LPROCFF,0,0,FALSE
+accessories,Optolong,UHC Clip Filter for Nikon FF,195,F-UHCNFF,0,0,FALSE
+accessories,Optolong,UHC Clip Filter for Canon FF,195,F-UHCCFF,0,0,FALSE
+accessories,Optolong,"L-Pro Filter 1.25""",249,F-LPRO1,0,0,FALSE
+accessories,Optolong,L-Pro Clip Filter for Sony FF,425,F-LPROS,0,0,FALSE
+accessories,QHY,miniGuideScope,269,D-MG,0,0,FALSE
+accessories,QHY,QHY Colour Filter Wheel - Medium,699,C-QCFW3M,0,0,FALSE
+accessories,QHY,Off Axis Guider - Medium,435,C-OAGM,0,0,FALSE
+accessories,QHY,Adapter - Medium Camera Spacers,135,A-QSPACE,0,0,FALSE
+accessories,QHY,QHY Colour Filter Wheel - Large,1319,C-QCFW3L,0,0,FALSE
+accessories,QHY,"Camera Connector for Mounted 2"" Filter",39,A-QFIL,0,0,FALSE
+accessories,QHY,Adapter - Medium Camera to Nikon,78,A-QNIK,0,0,FALSE
+accessories,QHY,Off Axis Guider - Small,349,C-OAGS,0,0,FALSE
+accessories,QHY,QHY Combo D1 Adapter Set,85,A-QCD1,0,0,FALSE
+accessories,QHY,Adapter - Medium Camera to Canon,78,A-QCAN,0,0,FALSE
+accessories,QHY,QHY Colour Filter Wheel - Small,525,C-QCFW3S,0,0,FALSE
+accessories,Quasar Publishing,The Night Sky Planisphere (Southern Hemisphere edition),39,K-PLAN,0,0,FALSE
+accessories,TS Optics,"2"" LED Collimator",429,Z-COLTS,0,0,FALSE
+accessories,Unihedron,Sky Quality Meter,298,Z-SQM-L,0,0,FALSE
+accessories,Unihedron,Sky Quality Meter Ethernet,649,Z-SQM-LEH,0,0,FALSE
+accessories,Unihedron,Sky Quality Meter USB,475,Z-SQM-LU,0,0,FALSE
+astrophotography-mounts,Astronz,Heavy Duty Tripod,249,M-TRIH,0,0,FALSE
+astrophotography-mounts,Astronz,Professional Tripod,189,M-TRI,0,0,FALSE
+astrophotography-mounts,Astronz,Ball Head,59,M-BALLQ03,0,0,FALSE
+astrophotography-mounts,Astronz,NZ Power Supply for Mounts 12V / 2A,20,M-PWRCEM,0,0,FALSE
+astrophotography-mounts,Astronz,NZ Power Supply for AZ Mount Pro,20,M-PWRAZ,0,0,FALSE
+astrophotography-mounts,Astronz,Quick Release Plate for Heavy Duty Tripod,22,M-TRIHQ,0,0,FALSE
+astrophotography-mounts,Astronz,Quick Release Plate for Professional Tripod,22,M-TRIQ,0,0,FALSE
+astrophotography-mounts,GSO,Dovetail Mount,58,A-DOVE,0,0,FALSE
+astrophotography-mounts,GSO,Vixen Dovetail Plate for RC8,90,Z-DOVERC,0,0,FALSE
+astrophotography-mounts,iOptron,SkyGuider Pro Mount with iPolar,1225,M-SGPI,0,0,FALSE
+astrophotography-mounts,iOptron,SkyGuider Pro Mount,895,M-SGP,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron SkyTracker Pro Mount,645,M-STP,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron Counterweight 2kg,80,M-CW2,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron Counterweight 4.5kg,138,M-CW4,0,0,FALSE
+astrophotography-mounts,iOptron,iPolar Electronic Polarscope,390,C-IP,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron Counterweight 1.35kg,58,M-CW1,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron Counterweight 5kg,139,M-CW5,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM26 GoTo EQ Mount with iPolar & Hard Case,2695,M-CEM26A,0,0,FALSE
+astrophotography-mounts,iOptron,iPolar Electronic Polarscope for SkyGuider Pro,425,C-IPSGP,0,0,FALSE
+astrophotography-mounts,iOptron,Tri-Pier,1275,M-TRIP,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM40 Goto EQ Mount,4475,M-CEM40,0,0,FALSE
+astrophotography-mounts,iOptron,"iOptron 1.5"" Tripod Carry Bag",75,M-BAG1,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron Counterweight 2.5kg,99,M-CW25,0,0,FALSE
+astrophotography-mounts,iOptron,iStarFi for CEM40,199,M-STARFI40,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM70 Goto EQ Mount,5275,M-CEM70,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM26 GoTo EQ Mount with iPolar,2595,M-CEM26D,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM40 Goto EQ Mount with iGuider,5145,M-CEM40G,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron Counterweight 10kg,275,M-CW10,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron Counterweight 9.5kg,245,M-CW9,0,0,FALSE
+astrophotography-mounts,iOptron,Secondary Dovetail Saddle,149,M-AZDOVE,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM26 GoTo EQ Mount without Polarscope,2295,M-CEM26B,0,0,FALSE
+astrophotography-mounts,iOptron,SkyTracker Pro Counterweight Package,160,M-CWSTX,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM70 Goto EQ Mount with iGuider,5795,M-CEM70G,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM120 GoTo EQ Mount,8645,M-CEM120,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron GEM28 Goto EQ Mount without iPolar,2595,M-GEM28B,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron HEM27 with iPolar,3575,M-HEM27,0,0,FALSE
+astrophotography-mounts,iOptron,Tri-Pier with Rolling Case,1525,M-TRIP-RC,0,0,FALSE
+astrophotography-mounts,iOptron,Tri-Pier 360,2095,M-TRIP360,0,0,FALSE
+astrophotography-mounts,iOptron,GPS for CEM Mount,225,M-CEMGPS,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM70EC Goto EQ Mount with iPolar,7995,M-CEM70EC,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron CEM120EC GoTo EQ Mount,11875,M-CEM120EC,0,0,FALSE
+astrophotography-mounts,iOptron,#8061 Carbon Fibre Tripod,520,M-TRI8061,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron SkyHunter with iPolar,1253.25,M-SHA,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron SkyHunter,1075,M-SH,0,0,FALSE
+astrophotography-mounts,iOptron,AZ Mount Pro Binocular Adapter,595,M-AZBINO,0,0,FALSE
+astrophotography-mounts,iOptron,iOptron GEM28 Goto EQ Mount with iPolar,2875,M-GEM28A,0,0,FALSE
+astrophotography-mounts,iOptron,SkyGuider Pro Battery,35,M-SGXY,0,0,FALSE
+astrophotography-mounts,SkyWatcher,Skywatcher EQ6-R Belt Driven Equatorial Mount,3575,M-SWEQ6,0,0,FALSE
+astrophotography-mounts,SkyWatcher,Skywatcher EQM35 Goto Combo Mount With Steel Tripod,1695,M-SWEQ35,0,0,FALSE
+binoculars,Astronz,10x50mm Premium Binoculars,99,B-1050P,0,0,FALSE
+binoculars,Astronz,Tripod Adapter,12,B-ADAPT,0,0,FALSE
+binoculars,Astronz,15x70mm Standard Binoculars,175,B-1570S,0,0,FALSE
+binoculars,Astronz,25x100mm Premium Binoculars,745,B-25100P,0,0,FALSE
+binoculars,Astronz,20x80mm Premium Binoculars,499,B-2080P,0,0,FALSE
+binoculars,Astronz,Getting started with the night sky package,194,P-B1570,0,0,FALSE
+binoculars,Astronz,Explore the sky binocular package,699,P-B2080H,0,0,FALSE
+binoculars,iOptron,AZ Mount Pro Binocular Adapter,595,M-AZBINO,0,0,FALSE
+eyepieces,Astronz,"12mm Extra Flat 1.25""",109,E-EF12,0,0,FALSE
+eyepieces,Astronz,"14mm Extra Flat 1.25""",195,E-EF14,0,0,FALSE
+eyepieces,Astronz,"15mm SuperView 1.25""",75,E-SV15,0,0,FALSE
+eyepieces,Astronz,"16mm Extra Flat 1.25""",109,E-EF16,0,0,FALSE
+eyepieces,Astronz,"19mm Extra Flat 1.25""",109,E-EF19,0,0,FALSE
+eyepieces,Astronz,"23.9mm Extra Flat 1.25""",119,E-EF23,0,0,FALSE
+eyepieces,Astronz,"25mm Plossl 1.25""",45,E-P25,0,0,FALSE
+eyepieces,Astronz,"30mm Eyepiece CPL 2""",130,E-CPL30,0,0,FALSE
+eyepieces,Astronz,"30mm SuperView 2""",125,E-SV30,0,0,FALSE
+eyepieces,Astronz,"32mm Eyepiece CPL 1.25""",75,E-CPL32,0,0,FALSE
+eyepieces,Astronz,"32mm Plossl 1.25""",58,E-P32,0,0,FALSE
+eyepieces,Astronz,"42mm SuperView 2""",125,E-SV42,0,0,FALSE
+eyepieces,Astronz,"50mm SuperView 2""",125,E-SV50,0,0,FALSE
+eyepieces,Astronz,"6mm Plossl 1.25""",39,E-P06,0,0,FALSE
+eyepieces,Astronz,"8mm Extra Flat 1.25""",119,E-EF08,0,0,FALSE
+eyepieces,Astronz,"9mm Plossl 1.25""",39,E-P09,0,0,FALSE
+telescopes,Astronz,Dobsonian Upgrade Package,100,P-DOBUP,0,0,FALSE
+telescopes,Astronz,Deluxe Visual Telescope Goto Package,4195,P-AZCAS08,0,0,FALSE
+telescopes,Astronz,Astrophotography telescope package,4395,P-RC08,0,0,FALSE
+telescopes,Celestron,Celestron FirstScope Tabletop Telescope Reeves Signature Edition,175,T-SCTFSTT,22016,0,FALSE
+telescopes,Celestron,Celestron PowerSeeker 60AZ Refractor,249,T-SCT60AZ,,214104,FALSE
+telescopes,Celestron,Celestron C8 Optical Tube Assembly,2495,T-SCTC08T,0,0,FALSE
+telescopes,Celestron,Celestron NexStar 6SE,2945,T-SCTCSE06,11068,0,FALSE
+telescopes,Celestron,Celestron C9.25 Optical Tube Assembly,3695,T-SCTC09T,0,0,FALSE
+telescopes,Celestron,"Celestron EdgeHD 8"" Optical Tube Assembly",3795,T-SCTCHD08T,0,0,FALSE
+telescopes,Celestron,Celestron NexStar 8SE,4095,T-SCTCSE08,11069,0,FALSE
+telescopes,Celestron,Celestron C11 Optical Tube Assembly,5295,T-SCTC11T,0,0,FALSE
+telescopes,Celestron,"Celestron NexStar Evolution 8""",5395,T-SCTCEV08,12091,0,FALSE
+telescopes,Celestron,"Celestron EdgeHD 9.25"" Optical Tube Assembly",6195,T-SCTCHD0925T,0,0,FALSE
+telescopes,Celestron,"Celestron NexStar Evolution 9.25""",6795,T-SCTCEV09,12092,0,FALSE
+telescopes,DayStar,60mm DayStar DS Solar Scout Telescope,1995,T-SOLDS60DS,0,0,FALSE
+telescopes,DayStar,60mm DayStar Solar Scout Telescope,2895,T-SOLDS60,0,0,FALSE
+telescopes,DayStar,80mm DayStar Solar Scout Telescope (Chromosphere),3995,T-SOLDS80,0,0,FALSE
+telescopes,GSO,"GSO 12"" Ritchey-Chretien Truss Astrograph Telescope",0,T-RC12A,0,0,FALSE
+telescopes,GSO,"GSO 14"" Ritchey-Chretien Truss Astrograph Telescope",0,T-RC14A,0,0,FALSE
+telescopes,GSO,"GSO 16"" Ritchey-Chretien Truss Astrograph Telescope",0,T-RC16A,0,0,FALSE
+telescopes,GSO,"Astronz 6"" Dobsonian Telescope",545,T-DOB06,0,SWDOB150,FALSE
+telescopes,GSO,"Astronz 6"" f/4 Newtonian Telescope",595,T-NEW06F4,0,0,FALSE
+telescopes,GSO,"Astronz 8"" Premium Dobsonian Telescope",880,,0,SWDOB200,FALSE
+telescopes,GSO,"Astronz 6"" f/12 Cassegrain Telescope OTA",895,T-CAS06T,0,0,FALSE
+telescopes,GSO,"GSO 6"" Ritchey-Chretien Astrograph Telescope",895,T-RC06M,0,0,FALSE
+telescopes,GSO,"Astronz 8"" f/4 Newtonian OTA",925,T-NEW08F4,0,0,FALSE
+telescopes,GSO,Explore the sky telescope package,980,P-DOB08,0,0,FALSE
+telescopes,GSO,"Astronz 10"" Premium Dobsonian Telescope",1180,,0,SWDOB250,FALSE
+telescopes,GSO,"Astronz 10"" f/4 Newtonian OTA",1249,T-NEW10F4,0,0,FALSE
+telescopes,GSO,"Astronz 12"" f/4 Newtonian OTA",1495,T-NEW12F4,0,0,FALSE
+telescopes,GSO,"Astronz 12"" Premium Dobsonian Telescope",1680,,0,0,TRUE
+telescopes,GSO,"Astronz 8"" f/12 Cassegrain Telescope OTA",1795,T-CAS08T,0,0,FALSE
+telescopes,GSO,"GSO 8"" Ritchey-Chretien Astrograph Telescope",1795,T-RC08M,0,0,FALSE
+telescopes,GSO,"GSO 8"" Ritchey-Chretien Astrograph Telescope Carbon",2195,T-RC08C,0,0,FALSE
+telescopes,GSO,"GSO 16"" Truss Dobsonian Telescope",3995,T-DOB16,0,0,FALSE
+telescopes,GSO,"GSO 10"" Ritchey-Chretien Truss Astrograph Telescope",5475,T-RC10A,0,0,FALSE
+telescopes,SkyWatcher,"Skywatcher 6"" Dobsonian Telescope",595,T-DOB06S,SWDOB150,239106,FALSE
+telescopes,SkyWatcher,"Skywatcher 8"" Dobsonian Telescope",825,T-DOB08S,SWDOB200,239108,FALSE
+telescopes,SkyWatcher,"Skywatcher 10"" Collapsible Dobsonian Telescope",1795,T-DOB10CS,0,0,TRUE
+telescopes,SkyWatcher,"SkyWatcher 10"" SynScan GoTo Dobsonian Telescope",2799,T-DOB10CGS,0,0,TRUE
+telescopes,SkyWatcher,"Skywatcher 12"" Collapsible Dobsonian Telescope",2845,T-DOB12CS,SWDOB300C,239122,FALSE
+telescopes,SkyWatcher,Skywatcher 80mm Esprit ED Triplet APO Refractor,3195,T-RSWE80,0,0,FALSE
+telescopes,SkyWatcher,"Skywatcher 12"" SynScan GoTo Dobsonian Telescope",4695,T-DOB12CGS,SWDOB300CGT,0,FALSE
+telescopes,SkyWatcher,Skywatcher 100mm Esprit ED Triplet APO Refractor,5145,T-RSWE100,0,0,FALSE
+telescopes,SkyWatcher,Skywatcher 120mm Esprit ED Triplet APO Refractor,6595,T-RSWE120,0,0,FALSE
+telescopes,unistellar sas,eVscope eQuinox,3999,T-UNIEQU,0,0,TRUE
+telescopes,unistellar sas,eVscope 2,8499,T-UNIEV2,0,0,TRUE

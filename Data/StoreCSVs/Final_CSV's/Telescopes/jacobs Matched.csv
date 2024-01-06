@@ -1,0 +1,935 @@
+type,brand,name,price,external_sku,internal_sku,simular_sku,tracked_sku
+binoculars,Apexel,Apexel 8x21 Compact Kids Binocular,59.5,APS-PB8X21Y,0,0,FALSE
+binoculars,APM,APM 100mm 45° ED-APO Binoculars with UF 18mm Eyepieces,5249,APMSA100BINO45,0,0,FALSE
+binoculars,AstroNZ,Premium 20x80mm Binocular,699,ANZ2080,0,0,FALSE
+binoculars,AstroNZ,Premium 25x100mm Binocular,999,ANZ25100,0,0,FALSE
+binoculars,Burris,Burris Droptine 10x42mm Binocular,499,BO300291,0,0,FALSE
+binoculars,Burris,Burris Droptine 8x42mm Binocular,549.99,BO300290,0,0,FALSE
+binoculars,Burris,Burris Signature HD 10x42mm Binocular,1099,BO300293,0,0,FALSE
+binoculars,Burris,Burris Signature HD 10x42mm LRF Binocular,2249,BO300299,0,0,FALSE
+binoculars,Burris,Burris Signature HD 12x50mm Binocular,1199,BO300294,0,0,FALSE
+binoculars,Burris,Burris Signature HD 8x42mm Binocular,999.99,BO300292,0,0,FALSE
+binoculars,Bushnell,Bushnell 10x40 Spectator Sport Permafocus Binocular,314.98,BBBS11040,0,0,FALSE
+binoculars,Bushnell,Bushnell 10x50 Engage Binoculars w/ Free Bushnell Ultra-Light Binocular Harness,899.98,BBBEN1050,0,0,FALSE
+binoculars,Bushnell,Bushnell 10x50 Spectator Sport Permafocus Binocular,223.98,BBBS11050,BBBS11050,0,FALSE
+binoculars,Bushnell,Bushnell 12x50 Spectator Sport Permafocus Binocular,289.98,BBBS11250,0,0,FALSE
+binoculars,Bushnell,Bushnell 7x35 Spectator Sport Permafocus Binocular,189.98,BBBS1735,BBBS1735,0,FALSE
+binoculars,Bushnell,Bushnell 8x25 Spectator Sport Permafocus Binocular,179.98,BBBS1825,BBBS1825,0,FALSE
+binoculars,Bushnell,Bushnell 8x32 Spectator Sport Permafocus Binocular,197.98,BBBS1832,0,0,FALSE
+binoculars,Bushnell,Bushnell Engage 8x42 Roof Binocular w/Free Ultra-Light Binocular Harness,787.99,BBBEN842-O,0,0,FALSE
+binoculars,Bushnell,Bushnell Engage DX 10x42 Binocular w/ Free Bushnell Ultra-Light Binocular Harness,539,BBBENDX1042,0,0,FALSE
+binoculars,Bushnell,Bushnell Engage DX 12x50 Binocular w/ Free Bushnell Ultra-Light Binocular Harness,628.99,BBBENDX1250,0,0,FALSE
+binoculars,Bushnell,Bushnell Engage EDX 10x42 Binocular w/ Free Bushnell Ultra-Light Binocular Harness,849.98,BBBEN1042,BBBEN1042,0,FALSE
+binoculars,Bushnell,Bushnell Engage EDX 12x50 Binocular w/Free Bushnell Ultra-Light Binocular Harness,945.98,BBBEN1250,0,0,FALSE
+binoculars,Bushnell,Bushnell Engage EDX 8x42 Binocular w/ Free Bushnell Ultra-Light Binocular Harness,827.98,BBBEN842,0,0,FALSE
+binoculars,Bushnell,Bushnell Engage X 10x42 Binocular w/ Free Ultra Light Binocular Harness,399.98,BBBENX1042,0,0,FALSE
+binoculars,Bushnell,Bushnell Forge 10x30 Terrain Roof Prism Binocular,669.98,BBBF1030T,0,0,FALSE
+binoculars,Bushnell,Bushnell Forge 10x42 Terrain Roof Prism Binocular,925.98,BBBF1042T,0,0,FALSE
+binoculars,Bushnell,Bushnell Forge 15x56 Terrain Abbe Koenig Binocular,1277.09,BBBF1556T,0,0,FALSE
+binoculars,Bushnell,Bushnell Forge 8x42 Terrain Roof Prism Binocular,894.99,BBBF842T,0,0,FALSE
+binoculars,Bushnell,Bushnell Fusion X 10x42 LRF Binocular,1554.98,BRFFX1042AD,0,0,FALSE
+binoculars,Bushnell,Bushnell H20 2 10x25 Binocular,139.98,BB130105R,0,0,FALSE
+binoculars,Bushnell,Bushnell H20 2 10x42 Binocular,283.98,BB150142R,0,0,FALSE
+binoculars,Bushnell,Bushnell H20 2 7x50 Binoculars,268.98,BB157050R,0,0,FALSE
+binoculars,Bushnell,Bushnell H20 2 8x42 Binocular,243.98,BB158042R,0,0,FALSE
+binoculars,Bushnell,Bushnell Marine 7x50 Waterproof Binocular,408.98,BB137501,BB137501,0,FALSE
+binoculars,Bushnell,Bushnell Nitro 10x25 Roof Binocular,549.98,BBBN1025B,0,0,FALSE
+binoculars,Bushnell,Bushnell Nitro 10x36 Roof Binocular,649.99,BBBN1036B,0,0,FALSE
+binoculars,Bushnell,Bushnell Nitro 10x42 Black Roof Binocular,699.98,BBBN1042B,0,0,FALSE
+binoculars,Bushnell,Bushnell Powerview 2 10x25 Binocular,99.98,BBPWV1025,0,0,FALSE
+binoculars,Bushnell,Bushnell Powerview 2 10x25 Binocular - No Box,79,BBPWV1025-NoBOX,0,0,FALSE
+binoculars,Bushnell,Bushnell Powerview 2 10x42 Binocular,269.98,BBPWV1042,0,0,FALSE
+binoculars,Bushnell,Bushnell Powerview 2 10x50 Binocular,199.98,BBPWV1050,0,0,FALSE
+binoculars,Bushnell,Bushnell Powerview 2 20x50 Binocular,189.98,BBPWV2050,0,0,FALSE
+binoculars,Bushnell,Bushnell Prime 10x25 Roof Prism Binocular,198.99,BBBP1025B,BBBP1025B,0,FALSE
+binoculars,Bushnell,Bushnell Prime 10x28 Roof Prism Binocular,288.99,BBBPR1028,0,0,FALSE
+binoculars,Bushnell,Bushnell Prime 10x42 Roof Binocular,328.99,BBBP1042B,BBBP1042B,0,FALSE
+binoculars,Bushnell,Bushnell Prime 12x50 Roof Prism Binocular,398.99,BBBPR1250,0,0,FALSE
+binoculars,Bushnell,Bushnell Prime 8x32 Roof Prism Binocular,299.98,BBBP832B,0,0,FALSE
+binoculars,Bushnell,Bushnell Prime 8x42 Roof Prism Binocular,308.99,BBBPR842,0,0,FALSE
+binoculars,Bushnell,Bushnell Trophy 10x42 Bone Collector Binocular,399.99,BB334210,0,0,FALSE
+binoculars,Canon,Canon 10x20 IS Image Stabilised Binocular,1034,3640C002,0,0,FALSE
+binoculars,Canon,Canon 10x30 IS II Image Stabilised Binocular,1139,9525B002,0,0,FALSE
+binoculars,Canon,Canon 10x42 L IS WP Image Stabilised Binocular,2594,0155B002,0,0,FALSE
+binoculars,Canon,Canon 12x32 IS Image Stabilized Binoculars,2448,BNC1232IS,0,0,FALSE
+binoculars,Canon,Canon 12x36 IS III Image Stabilised Binocular,1553,9526B002,0,0,FALSE
+binoculars,Canon,Canon 14X32 IS Image Stabilized Binoculars,2848,BNC1432IS,0,0,FALSE
+binoculars,Canon,Canon 15x50 IS Image Stabilised Binocular,2094,4625A002,0,0,FALSE
+binoculars,Canon,Canon 18x50 IS Image Stabilised Binocular,2298.99,4624A002,0,0,FALSE
+binoculars,Canon,Canon 8x20 IS Image Stabilised Binocular,882,3639C002,0,0,FALSE
+binoculars,Celestron,Celestron Nature DX 10x32 Binocular,339,71331,0,0,FALSE
+binoculars,Celestron,Celestron Nature DX 10x42 Binocular,369,71333,0,0,FALSE
+binoculars,Celestron,Celestron Nature DX 8x42 Binocular,399,71332,0,0,FALSE
+binoculars,Celestron,Celestron Nature DX ED 10x42 Binoculars,599,72333,0,0,FALSE
+binoculars,Celestron,Celestron Nature DX ED 8x42 Binoculars,589,72332,0,0,FALSE
+binoculars,Celestron,Celestron SkyMaster 15x70 Binocular,249,71009,71009,0,FALSE
+binoculars,Celestron,Celestron SkyMaster 25x70 Binocular,299,71008,0,0,TRUE
+binoculars,Celestron,Celestron UpClose G2 10x25 Roof Binocular,79.9,71232,0,0,FALSE
+binoculars,Celestron,Celestron UpClose G2 10x50 Porro Binocular,128.99,71256,0,0,FALSE
+binoculars,Celestron,Celestron UpClose G2 16x32 Roof Prism Binocular,129,71234,0,0,FALSE
+binoculars,Celestron,Celestron UpClose G2 20x50 Binocular,189,71258,0,0,FALSE
+binoculars,Celestron,Celestron UpClose G2 8x40 Porro Binocular,129,71252,0,0,FALSE
+binoculars,Fujinon,Fujinon 10x50 FMTR-SX Binocular,1497,29020,0,0,FALSE
+binoculars,Fujinon,Fujinon 7x50 FMTRC-SX Binocular,1488.99,29050,0,0,FALSE
+binoculars,Fujinon,Fujinon 7X50 FMTR-SX Polaris Binocular,1278,29060,0,0,FALSE
+binoculars,Fujinon,Fujinon 7x50 WPC-XL Mariner w/ Compass Binocular,558,29090,0,0,FALSE
+binoculars,Fujinon,Fujinon 7X50 WP-XL Mariner Binocular,438,29120,0,0,FALSE
+binoculars,Fujinon,Fujinon Hyper Clarity 10x42 Binocular,1497,16670625,0,0,FALSE
+binoculars,Fujinon,Fujinon Hyper Clarity 8x42 Binocular,1397,16670613,0,0,FALSE
+binoculars,Fujinon,Fujinon KF 10x32 Binocular,658,80053,0,0,FALSE
+binoculars,Fujinon,Fujinon KF 10x42 Binocular,468,80052,0,0,FALSE
+binoculars,Fujinon,Fujinon KF 8x32 Binocular,379,KF8x32W,0,0,FALSE
+binoculars,Fujinon,Fujinon KF 8x42 Binocular,438,80051,0,0,FALSE
+binoculars,Fujinon,Fujinon Stabi-Scope 12x40 Image-Stabilised Binocular,9199,29215,0,0,FALSE
+binoculars,Fujinon,Fujinon Stabi-Scope 16x40 Image-Stabilised Binocular,6499,29225,0,0,FALSE
+binoculars,Fujinon,Fujinon Techno-Stabi 12x28 Image-Stabilised Binocular,1218,16651942,0,0,FALSE
+binoculars,Fujinon,Fujinon Techno-Stabi 16x28 Image-Stabilised Binocular,1258,16651954,0,0,FALSE
+binoculars,Fujinon,Fujinon Techno-Stabi TS-1440 14x40 Stabilised Binocular,1999,FRT29245,0,0,FALSE
+binoculars,Fujinon,"Fujinon Techno-Stabi TSX-1440 14x40 Stabilised Binocular - Black, Yellow or Navy Blue",2280,16642202,0,0,FALSE
+binoculars,Gerber,Gerber Explorer S-II 10X25 BAK4 Binoculars,199,9.32E+12,0,0,FALSE
+binoculars,Gerber,Gerber Explorer S-II – 8X25 BAK4 Binoculars,179,9.32E+12,0,0,FALSE
+binoculars,Gerber,Gerber Nautica Floating + Compass 7x50 Binoculars,348,9.32E+12,0,0,FALSE
+binoculars,Gerber,Gerber Nautica S-II W/Proof 10X42 BAK4 Binoculars,299,9.32E+12,0,0,FALSE
+binoculars,Gerber,Gerber Nautica S-II W/Proof 8X42 BAK4 Binoculars,289,9.32E+12,0,0,FALSE
+binoculars,Gerber,Gerber Nautica Waterproof 8X42 Binoculars,299,9.32E+12,0,0,FALSE
+binoculars,Gerber,Gerber Sport S-II 10X50 BAK4 Binoculars,201,9.32E+13,0,0,FALSE
+binoculars,Gerber,Gerber Sport S-II 12X50 BAK4 Binoculars,259,9.32E+12,0,0,FALSE
+binoculars,Gerber,Gerber Sport S-II 16X50 BAK4 Binoculars + Adaptor,271,9.32E+13,0,0,FALSE
+binoculars,Kahles,Kahles Helia 10x42 LRF Binocular,2490,20025-J,0,0,FALSE
+binoculars,Kahles,Kahles Helia S 10x42 Binocular,2490,5603898,0,0,FALSE
+binoculars,Kahles,Kahles Helia S 8x42 Binocular,2390,5603891,0,0,FALSE
+binoculars,Konus,Konus 7x50 Abyss Marine Binocular,178.99,KS2301,0,0,FALSE
+binoculars,Konus,Konus Emperor 8X42 WA Binocular,279,KS2336,0,0,FALSE
+binoculars,Konus,Konus Giant 20x80 Binocular,328.98,KS2110,KS2110,0,FALSE
+binoculars,Konus,Konus Konuspy-11 3X-4.5X-6X Binocular,458.99,KS7932,0,0,FALSE
+binoculars,Konus,Konus Konusrange 2 10x42 LRF Binocular,979,KS7311,0,0,FALSE
+binoculars,Konus,Konus Konusrange 8X42 LRF Binocular,1199,7309,0,0,FALSE
+binoculars,Konus,Konus Konusrex 10X42 W.A. Binocular,296.99,KS2345,0,0,FALSE
+binoculars,Konus,Konus Konusrex 10X50 W.A. Binocular,319,KS02346,0,0,FALSE
+binoculars,Konus,Konus Konusrex 12X50 W.A. Binocular,349,KS02347,0,0,FALSE
+binoculars,Konus,Konus Konusrex 8x42 W.A. Binocular,299,KS2344,0,0,FALSE
+binoculars,Konus,Konus Konusvue 10X50 W.A. Binocular,124,KS2103,0,0,FALSE
+binoculars,Konus,Konus Konusvue 7x50 Binocular,112,KS2102,0,0,FALSE
+binoculars,Konus,Konus Konusvue 8X40 W.A. Binocular,112,KS2101,0,0,FALSE
+binoculars,Konus,Konus Mission HD 10x42 Binocular,399,KS02271,0,0,FALSE
+binoculars,Konus,Konus Mission HD 8x42 Binocular,379,KS02270,0,0,FALSE
+binoculars,Konus,Konus Motor-130 W/ Electric Focuser & Red Dot Finder Telescope,649,KS1786,0,0,TRUE
+binoculars,Konus,Konus Newzoom 10-30X60 CF Binocular,128.99,KS2124,0,0,FALSE
+binoculars,Konus,Konus Patrol 10X26 Waterproof Binocular,118.99,KS2366,0,0,FALSE
+binoculars,Konus,Konus Patrol 8X26 Waterproof Binocular,108.99,KS2365,0,0,FALSE
+binoculars,Konus,Konus Supreme 2 10X26 W.A. Waterproof Binocular,159,KS2364,0,0,FALSE
+binoculars,Konus,Konus Supreme 2 8X26 W.A. Binocular,158.99,KS2363,0,0,FALSE
+binoculars,Konus,Konus Vivisport-25 10x25 Waterproof Bino Binocular,114,KS2306,0,0,FALSE
+binoculars,Konus,Konus Woodland 10x42 Binocular,129,KS2607,0,0,FALSE
+binoculars,Konus,Konusmall-3 8-24x40 Monocular,109,KS2063,0,0,FALSE
+binoculars,Kowa,Kowa 10x22 Genesis 22 PROMINAR XD Binocular,1080,GN22-10,0,0,FALSE
+binoculars,Kowa,Kowa 10x25 BD25-10 Binocular (Green),408.99,BD25-10GR,0,0,FALSE
+binoculars,Kowa,Kowa 10x25 SV25-10 Binocular,259,SV25-10,0,0,FALSE
+binoculars,Kowa,Kowa 10x56 BD56-10 XD Prominar Binocular,878.99,BD56-10XD,0,0,FALSE
+binoculars,Kowa,Kowa 12x56 BD56-12 XD Prominar Binocular,1209,BD56-12XD,0,0,FALSE
+binoculars,Kowa,Kowa 32x82 High Lander (45° Angled Viewing) Binocular,8250,BL8J3,0,0,FALSE
+binoculars,Kowa,Kowa 8x25 BD25-8 Roof Prism Binocular,449,BD25-8GR,0,0,FALSE
+binoculars,Kowa,Kowa 8x30 YF II Binoculars,359,YFⅡ30-8,0,0,FALSE
+binoculars,Kowa,Kowa 8x56 BD56-8 XD Prominar Binocular,899,BD56-8XD,0,0,FALSE
+binoculars,Kowa,Kowa BD II 10x32 XD Binocular,954.98,BD II 32-10XD,0,0,FALSE
+binoculars,Kowa,Kowa BD II 10x42 XD Binocular,1034.98,BD II 42-10,0,0,FALSE
+binoculars,Kowa,Kowa BD II 6.5x32 XD Binocular,865,bd II 32-6.5xd,0,0,FALSE
+binoculars,Kowa,Kowa BD II 8x32 XD Binocular,854.98,BD II 32-8XD,0,0,FALSE
+binoculars,Kowa,Kowa BD II 8x42 XD Binocular,929.98,BD II 42-8,0,0,FALSE
+binoculars,Kowa,Kowa Genesis 10x33 Binoculars,1299,GENESIS 33-10,0,0,FALSE
+binoculars,Kowa,Kowa Genesis 8x22 Binocular,1050,Genesis22-8,0,0,FALSE
+binoculars,Kowa,Kowa Genesis XD 10.5x44 Prominar ED Binocular,1999,GN44-10,0,0,FALSE
+binoculars,Kowa,Kowa Landscope 20x80 Binocular (Gray),9559,BL-8H-NC,0,0,FALSE
+binoculars,Kowa,Kowa Landscope 20x80 Coin Operated Binocular (Gray),11500,BL-8H,0,0,FALSE
+binoculars,Kowa,Kowa SV II 10x25 Binocular,239.99,SV II 25-10,0,0,FALSE
+binoculars,Kowa,Kowa SV II 10x42 Binocular,554.98,SV II 42-10,0,0,FALSE
+binoculars,Kowa,Kowa SV II 8x25 Binocular,209.99,SV II 25-8,0,0,FALSE
+binoculars,Kowa,Kowa SV II 8x42 Binocular,553.99,SV II 42-8,0,0,FALSE
+binoculars,Kowa,Kowa YF II 6x30 Binoculars,359,YFⅡ30-6,0,0,FALSE
+binoculars,Leica,Leica 7X24 Pinmaster II Pro Golf Laser Rangefinder,1189,LS40539,0,0,FALSE
+binoculars,Leica,Leica Digiscoping Lens 35 Mm,957,L42308,0,0,FALSE
+binoculars,Leica,Leica Duovid 10+15x50 Binoculars,3921,LS40420,0,0,FALSE
+binoculars,Leica,Leica Duovid 8+12x42 Binoculars,3989,LS40400,0,0,FALSE
+binoculars,Leica,Leica Geovid 10X42 3200.Com LRF Binocular,5488,LS40807,0,0,FALSE
+binoculars,Leica,Leica Geovid 10X42 HD-R 2700 LRF Binocular,4489,LS40804,0,0,FALSE
+binoculars,Leica,Leica Geovid 10X42 R - Meters Or Yards LRF Binocular,3189,LS40427,0,0,FALSE
+binoculars,Leica,Leica Geovid 15x56 R Metres LRF Binocular,4289,LS40431,0,0,FALSE
+binoculars,Leica,Leica Geovid 15x56 R Yards LRF Binocular,4827,LS40432,0,0,FALSE
+binoculars,Leica,Leica Geovid 8X42 HD-R 2700 LRF Binocular,4489,LS40803,0,0,FALSE
+binoculars,Leica,Leica Geovid Pro 10x32 LRF Binocular,5098,LS40810,0,0,FALSE
+binoculars,Leica,Leica Geovid Pro 10x42 Rangefinder Binocular,6739,LS40816,0,0,FALSE
+binoculars,Leica,Leica Geovid Pro 8x32 LRF Binocular,4693.94,LS40809,0,0,FALSE
+binoculars,Leica,Leica Geovid Pro 8x42 Rangefinder Binocular,6739,LS40815,0,0,FALSE
+binoculars,Leica,Leica Geovid R 10x42 Rangefinder Binocular,2994,LS40812,0,0,FALSE
+binoculars,Leica,Leica Geovid R 15x56 Rangefinder Binocular,4389,LS40814,0,0,FALSE
+binoculars,Leica,Leica Geovid R 8x42 Rangefinder Binocular,3289,LS40811,0,0,FALSE
+binoculars,Leica,Leica Geovid R 8x56 Rangefinder Binocular,3789,LS40813,0,0,FALSE
+binoculars,Leica,Leica Monovid 8X20 Monocular,949,LS40390,0,0,FALSE
+binoculars,Leica,Leica Noctivid 10x42 Binoculars,4489,LS40385,0,0,FALSE
+binoculars,Leica,Leica Noctivid 10x42 Olive Green Binocular,4789,LS40387,0,0,FALSE
+binoculars,Leica,Leica Noctivid 8x42 Binoculars,4789,LS40384,0,0,FALSE
+binoculars,Leica,Leica Televid 1.8X Telecoverter,649,LS41022,0,0,FALSE
+binoculars,Leica,Leica Trinovid 10x25 Bca Binoculars,989,LS40343,0,0,FALSE
+binoculars,Leica,Leica Trinovid 10X32 HD Binocular,1689,LS40317,0,0,FALSE
+binoculars,Leica,Leica Trinovid 10x42 HD Binocular,2189,LS40319,0,0,FALSE
+binoculars,Leica,Leica Trinovid 8x20 BCA Binocular,889,LS40342,0,0,FALSE
+binoculars,Leica,Leica Trinovid 8X32 HD Binocular,1789,LS40316,0,0,FALSE
+binoculars,Leica,Leica Trinovid 8X42 HD Binocular,2189,LS40318,0,0,FALSE
+binoculars,Leica,Leica Ultravid 10x25 BR Binocular,1374,LS40253,0,0,FALSE
+binoculars,Leica,Leica Ultravid 10X25 Leathered Black Binocular,1589,LS40607,0,0,FALSE
+binoculars,Leica,Leica Ultravid 10x32 HD Plus Binocular,3689,LS40091,0,0,FALSE
+binoculars,Leica,Leica Ultravid 10X42 HD Plus Binocular,4289,LS40094,0,0,FALSE
+binoculars,Leica,Leica Ultravid 7X42 HD-Plus Binocular,4289,LS40092,0,0,FALSE
+binoculars,Leica,Leica Ultravid 8X20 BR Binocular,1389,LS40252,0,0,FALSE
+binoculars,Leica,Leica Ultravid 8X20 Leathered Black Binocular,1389,LS40605,0,0,FALSE
+binoculars,Leica,Leica Ultravid 8X32 HD Plus Binocular,3689,LS40090,0,0,FALSE
+binoculars,Leica,Leica Ultravid 8X42 HD Plus Binocular,4289,LS40093,0,0,FALSE
+binoculars,Leupold,Leopold BX-4 Pro Guide 8x42 Binocular,1461,172662,0,0,FALSE
+binoculars,Leupold,Leupold BX-1 McKenzie 8x42 Binocular,499.9,173787,0,0,FALSE
+binoculars,Leupold,Leupold BX-1 McKenzie HD 10x42 Binocular,517,181173,0,0,FALSE
+binoculars,Leupold,Leupold BX-1 McKenzie HD 10x50 Binocular,554,181174,0,0,FALSE
+binoculars,Leupold,Leupold BX-1 McKenzie HD 12x50 Binocular,591,181175,0,0,FALSE
+binoculars,Leupold,Leupold BX-1 Rogue 10x25 Binocular,279.99,59225,0,0,FALSE
+binoculars,Leupold,Leupold BX-1 Rogue 8x25 Binocular,248,59220,0,0,FALSE
+binoculars,Leupold,Leupold BX-2 Alpine 8x42 Binocular,569.9,176969,0,0,FALSE
+binoculars,Leupold,Leupold BX-2 Alpine HD 10x42 Binocular,647,181177,0,0,FALSE
+binoculars,Leupold,Leupold BX-2 Alpine HD 10x52 Binocular,698,181178,0,0,FALSE
+binoculars,Leupold,Leupold BX-2 Alpine HD 12x52 Binocular,750,181179,0,0,FALSE
+binoculars,Leupold,Leupold BX-4 Pro Guide HD 10x42 Binocular,1461,172666,0,0,FALSE
+binoculars,Meade,Meade Rainforest Pro 10x42 Binocular,449,125043,0,0,FALSE
+binoculars,Meade,Meade Rainforest Pro 8x42 Binocular,429,125042,0,0,FALSE
+binoculars,Meopta,Meopta Meopro Optika 10x42 HD Binoculars,899,MPO1042HD,0,0,FALSE
+binoculars,Meopta,Meopta Meopro Optika 8x42 HD Binocular,799,MPO842HD,0,0,FALSE
+binoculars,Nikon,Nikon 10x50 Central Focus Waterproof Binocular,569,BAA586AA,0,0,FALSE
+binoculars,Nikon,Nikon 10x70 If Hp Wp Binoculars Black,2569,BAA192EA,0,0,FALSE
+binoculars,Nikon,Nikon 10x70 IF SP WP Binoculars,3409,BAA195EA,0,0,FALSE
+binoculars,Nikon,Nikon 7x50 Central Focus Waterproof Global Binocular,689,BAA819WA,0,0,FALSE
+binoculars,Nikon,Nikon Action Extreme 10x50 Waterproof Cf Binocular,379,BAA663AA,BAA663AA,0,FALSE
+binoculars,Nikon,Nikon Action Extreme 12x50 Waterproof CF Binocular,389,BAA664AA,BAA664AA,0,FALSE
+binoculars,Nikon,Nikon Action Extreme 7x35 Waterproof Cf Binocular,299,BAA660AA,0,0,FALSE
+binoculars,Nikon,Nikon Action Extreme 7x50 Waterproof CF Binocular,329,BAA662AA,0,0,FALSE
+binoculars,Nikon,Nikon Action Extreme 8x40 Waterproof Cf Binocular,319,BAA661AA,0,0,FALSE
+binoculars,Nikon,Nikon Aculon A211 10-22X50 Binocular,284.92,BAA818SA,BAA818SA,0,FALSE
+binoculars,Nikon,Nikon Aculon A211 10X42 Binocular,173.29,BAA812SA,BAA812SA,0,FALSE
+binoculars,Nikon,Nikon Aculon A211 10X50 Binocular,188.99,BAA814SA,BAA814SA,0,FALSE
+binoculars,Nikon,Nikon Aculon A211 12X50 Binocular,198.99,BAA815SA,BAA815SA,0,FALSE
+binoculars,Nikon,Nikon Aculon A211 16X50 Binocular,228.99,BAA816SA,BAA816SA,0,FALSE
+binoculars,Nikon,Nikon Aculon A211 7X35 Binocular,162.99,BAA810SA,0,0,FALSE
+binoculars,Nikon,Nikon Aculon A211 7X50 Binocular,188.99,BAA813SA,BAA813SA,0,FALSE
+binoculars,Nikon,Nikon Aculon A211 8-18X42 Binocular,278.99,BAA817SA,0,0,FALSE
+binoculars,Nikon,Nikon Aculon A211 8x42 Binocular,158.99,BAA811SA,BAA811SA,0,FALSE
+binoculars,Nikon,Nikon Aculon A30 10x25 Black Binoculars,148.99,BAA808SA,0,0,FALSE
+binoculars,Nikon,Nikon Aculon A30 8x25 Black Binoculars,138.99,BAA807SA,0,0,FALSE
+binoculars,Nikon,Nikon Aculon T02 10x21 Binoculars - Black,128.99,BAA861WA,0,0,FALSE
+binoculars,Nikon,NIKON ACULON T02 8X21 BLUE BINOCULAR,118.99,BAA860WB,0,0,FALSE
+binoculars,Nikon,NIKON ACULON T02 8X21 GREEN BINOCULAR,148.99,BAA860WC,0,0,FALSE
+binoculars,Nikon,NIKON ACULON T02 8X21 PURPLE BINOCULAR,148.99,BAA860WE,0,0,FALSE
+binoculars,Nikon,NIKON ACULON T02 8X21 RED BINOCULAR,112.02,BAA860WA,0,0,FALSE
+binoculars,Nikon,Nikon Aculon T02 8X21 White Binocular,118.99,BAA860WF,0,0,FALSE
+binoculars,Nikon,NIKON ACULON T02 8X21 YELLOW BINOCULAR,148.99,BAA860WD,0,0,FALSE
+binoculars,Nikon,Nikon Astroluxe 18x70 If Wp Wf Binocular,3649,BAA196EA,0,0,FALSE
+binoculars,Nikon,Nikon Digiscoping Adapter Fsa-l2 For Sel Spotting Scope,2199,BDB810AA,0,0,FALSE
+binoculars,Nikon,Nikon Ed50 Fieldscope Charcoal Grey Requ Spotting Scope,1059,BDA121AA,0,0,FALSE
+binoculars,Nikon,Nikon Ed50a Angled Fieldscope Grey Requi Spotting Scope,1219,BDA126AA,0,0,FALSE
+binoculars,Nikon,Nikon Edg 8x32 Ed Waterproof Central Foc Binocular,4599,BAA773NA,0,0,FALSE
+binoculars,Nikon,Nikon Eyepiece 20-45x 25-56x Mc Zoom For Spotting Scope,689,BDB90063,0,0,FALSE
+binoculars,Nikon,Nikon Eyepiece Fep-20-60 For Select Edg Spotting Scope,1699,BDB805AA,0,0,FALSE
+binoculars,Nikon,Nikon Marine 7X50 CF Waterproof Binocular,529,BAA574AA,BAA574AA,0,FALSE
+binoculars,Nikon,Nikon Monarch 5 12X42 Binocular,747.99,BAA832SA,0,0,FALSE
+binoculars,Nikon,Nikon Monarch 5 16x56 Ed Waterproof Binocular,2008.99,BAA836SA,0,0,FALSE
+binoculars,Nikon,Nikon Monarch 5 20x56 Ed Waterproof Binocular,1998.99,BAA837SA,0,0,FALSE
+binoculars,Nikon,Nikon Monarch 5 8x56 Ed Waterproof Binocular,788.99,BAA835SA,0,0,FALSE
+binoculars,Nikon,Nikon Monarch HG 10x42 ED Waterproof Binocular,2148.99,BAA794SA,0,0,FALSE
+binoculars,Nikon,Nikon Monarch HG 8x42 ED Waterproof Binocular,2048.99,BAA793SA,0,0,FALSE
+binoculars,Nikon,Nikon Monarch M5 10X42 ED Waterproof Central Focus Binocular,776.84,BAA911YA,BAA911YA,0,FALSE
+binoculars,Nikon,Nikon Monarch M5 12X42 ED Waterproof Central Focus Binocular,878.99,BAA912YA,0,0,FALSE
+binoculars,Nikon,Nikon Monarch M5 8X42 ED Waterproof Central Focus Binocular,740.66,BAA910YA,0,0,FALSE
+binoculars,Nikon,Nikon Monarch M7 10X30 ED Waterproof Central Focus Binocular,1084.32,BAA901SA,0,0,FALSE
+binoculars,Nikon,Nikon Monarch M7 10X42 ED Waterproof Central Focus Binocular,1120.48,BAA903SA,BAA903SA,0,FALSE
+binoculars,Nikon,Nikon Monarch M7 8X30 ED Waterproof Central Focus Binocular,1057.19,BAA900SA,BAA900SA,0,FALSE
+binoculars,Nikon,Nikon Monarch M7 8X42 ED Waterproof Central Focus Binocular,1084.32,BAA902SA,0,0,FALSE
+binoculars,Nikon,Nikon Prostaff 5 10X42 Binocular,351.38,BAA821SA,BAA821SA,0,FALSE
+binoculars,Nikon,Nikon Prostaff 5 10X50 Binocular,433.19,BAA822SA,0,0,FALSE
+binoculars,Nikon,Nikon Prostaff 5 12X50 Binocular,488.99,BAA823SA,0,0,FALSE
+binoculars,Nikon,Nikon Prostaff 5 82 Fieldscope Needs Eyepiece,888.99,BDA320FA,0,0,FALSE
+binoculars,Nikon,Nikon Prostaff 5 82A Fieldscope Needs Eyepiece,848.99,BDA321FA,BDA321FA,0,FALSE
+binoculars,Nikon,Nikon Prostaff 5 8X42 Binocular,388.99,BAA820SA,BAA820SA,0,FALSE
+binoculars,Nikon,Nikon Prostaff 5 Eyepiece 20-60X,308.43,BDB90182,BDB90182,0,FALSE
+binoculars,Nikon,Nikon Prostaff P7 10x30 Binoculars,519,BAA921SA,0,0,FALSE
+binoculars,Nikon,Nikon Prostaff P7 10x42 Binoculars,529,BAA923SA,0,0,FALSE
+binoculars,Nikon,Nikon Prostaff P7 8x30 Binoculars,489,BAA920SA,0,0,FALSE
+binoculars,Nikon,Nikon Prostaff P7 8x42 Binoculars,519,BAA922SA,0,0,FALSE
+binoculars,Nikon,Nikon Sportstar Ex 10x25 Central Focus B Binocular,209,BAA711AA,BAA711AA,0,FALSE
+binoculars,Nikon,Nikon Sportstar Ex 8x25 Central Focus Bi Binocular,199,BAA710AA,BAA710AA,0,FALSE
+binoculars,Nikon,Nikon Sportstar Zoom 8-24X25 Binocular,379,BAA870WA,0,0,FALSE
+binoculars,Nikon,Nikon Sportstar Zoom 8-24x25 Binocular,379,BAA870WC,0,0,FALSE
+binoculars,Nikon,Nikon Sportstar Zoom 8-24x25 Binocular,379,BAA870WB,0,0,FALSE
+binoculars,Nikon,Nikon Travelite Ex 10x25 Central Focus C Binocular,319,BAA706AA,0,0,FALSE
+binoculars,Nikon,Nikon Travelite Ex 12x25 Central Focus Binocular,359,BAA707AA,0,0,FALSE
+binoculars,Nikon,Nikon Travelite Ex 8x25 Central Focus Ch Binocular,309,BAA704AA,0,0,FALSE
+binoculars,Nikon,Nikon Travelite Vi 10x25 Central Focus B Binocular,259,BAA781AB,0,0,FALSE
+binoculars,Nikon,Nikon Travelite Vi 12x25 Central Focus Binocular,309,BAA782AB,0,0,FALSE
+binoculars,Nikon,Nikon Travelite Vi 8x25 Central Focus Bi Binocular,239,BAA780AB,0,0,FALSE
+binoculars,Olympus,Olympus 10x21 RC II WP Waterproof Binoculars - Dark Green,123,V501014DG000,0,0,FALSE
+binoculars,Olympus,Olympus 10x25 WP II Waterproof Binoculars,154,V501012BG000,0,0,FALSE
+binoculars,Olympus,Olympus 10x42 EXPS I Nature Binoculars,354,133853,0,0,FALSE
+binoculars,Olympus,Olympus 10x42 PRO Binoculars,893,V501021BJ000,0,0,FALSE
+binoculars,Olympus,Olympus 10x50 S Porro Prism Binoculars,294,V501023BJ000,0,0,FALSE
+binoculars,Olympus,Olympus 8-16x40 S Zoom Porro Prism Binoculars,364,V501024BJ000,0,0,FALSE
+binoculars,Olympus,Olympus 8x21 RC II WP Waterproof Binoculars - Green,94.95,V501013EG000,0,0,FALSE
+binoculars,Olympus,Olympus 8x21 RC II WP Waterproof Binoculars - Magenta,94.95,V501013RG000,0,0,FALSE
+binoculars,Olympus,Olympus 8x21 RC II WP Waterproof Binoculars Blue,94.95,V501013UG000,0,0,FALSE
+binoculars,Olympus,Olympus 8x25 WP II Waterproof Binoculars,193,V501011EG000,0,0,FALSE
+binoculars,Olympus,Olympus 8x40 S Porro Prism Binoculars,274,V501022BJ000,0,0,FALSE
+binoculars,Olympus,Olympus 8x42 EXPS I Nature Binoculars,314,133846,0,0,FALSE
+binoculars,Orion,Orion Giant View 15x70 Binocular,499,9327,0,0,FALSE
+binoculars,Orion,Orion GiantView 25x100 Binocular,1199,9326,0,0,FALSE
+binoculars,Orion,Orion GiantView BT-100 Binocular,8636,51849,0,0,FALSE
+binoculars,Orion,Orion GiantView BT-100 ED 90-degree Binocular Telescope,6499,51878,0,0,FALSE
+binoculars,Pentax,Pentax 10x21 U-Series UP Binocular (Black),148,61804,0,0,FALSE
+binoculars,Pentax,Pentax 10x21 U-Series UP Binocular (Navy),148,61805,0,0,FALSE
+binoculars,Pentax,Pentax 10x25 AD WP Compact Binocular,289,62882,0,0,FALSE
+binoculars,Pentax,Pentax 10x25 U Series UP Binocular,214,61902,0,0,FALSE
+binoculars,Pentax,Pentax 10x25 U-Series UP WP Compact Binocular,318,61932,0,0,FALSE
+binoculars,Pentax,Pentax 10x30 A-Series AP WP Binocular,298,65932,0,0,FALSE
+binoculars,Pentax,Pentax 10x42 S-Series SD WP Binocular,628,62762,0,0,FALSE
+binoculars,Pentax,Pentax 10x43 Z-Series ZD ED Binocular,1928,62702,0,0,FALSE
+binoculars,Pentax,Pentax 10x50 S-Series SP Binocular,238,65903,0,0,FALSE
+binoculars,Pentax,Pentax 10x50 S-Series SP WP Binocular,445,65872,0,0,FALSE
+binoculars,Pentax,Pentax 12x50 S-Series SP Binocular,258,65904,0,0,FALSE
+binoculars,Pentax,Pentax 12x50 S-Series SP WP Binocular,508,65873,0,0,FALSE
+binoculars,Pentax,Pentax 16x50 S-Series SP Binocular,288,65905,0,0,FALSE
+binoculars,Pentax,Pentax 20x60 S-Series SP WP Binocular,697.99,65874,0,0,FALSE
+binoculars,Pentax,Pentax 8-16x21 U-Series UP Binocular (Black),239,61961,0,0,FALSE
+binoculars,Pentax,Pentax 8-16x21 U-Series UP Binocular (Brown),218,61962,0,0,FALSE
+binoculars,Pentax,Pentax 8x21 U-Series UP Binocular (Black),169,61801,0,0,FALSE
+binoculars,Pentax,Pentax 8x25 A-Series AD WP Compact Binocular,208,62881,0,0,FALSE
+binoculars,Pentax,Pentax 8x25 U-Series UP Compact Binocular,218,61901,0,0,FALSE
+binoculars,Pentax,Pentax 8x30 A-Series AP WP Binocular,364,65931,0,0,FALSE
+binoculars,Pentax,Pentax 8x36 A-Series AD WP Compact Binocular,368,62851,0,0,FALSE
+binoculars,Pentax,Pentax 8x40 S-Series SP Binocular,198,65902,0,0,FALSE
+binoculars,Pentax,Pentax 8x40 S-Series SP WP Binocular,255,65871,0,0,FALSE
+binoculars,Pentax,Pentax 8x42 S-Series SD WP Binocular,558,62761,0,0,FALSE
+binoculars,Pentax,Pentax 8x43 Z-Series ZD ED Binocular,1838,62701,0,0,FALSE
+binoculars,Pentax,Pentax 9x42 S-Series SD WP Binocular,899,62751,0,0,FALSE
+binoculars,Steiner,Steiner Bino Commander 7x50 C Binocular,2669,STN2305-0050,0,0,FALSE
+binoculars,Steiner,Steiner Bino SkyHawk 4.0 10x42 Binocular,1089.99,STN2339-0900,0,0,FALSE
+binoculars,Steiner,Steiner Bino SkyHawk 4.0 8x42 Binocular,989.99,STN2338-0900,0,0,FALSE
+binoculars,Steiner,Steiner BluHorizons 10x26 Binocular,429.99,STN2044-0900,0,0,FALSE
+binoculars,Steiner,Steiner BluHorizons 10x42 Binocular,699.99,STN2345-0900,0,0,FALSE
+binoculars,Steiner,Steiner BluHorizons 8x22 Binocular,399.99,STN2043-0900,0,0,FALSE
+binoculars,Steiner,Steiner Commander 7x50 Binocular,2440,STN2304-0000,0,0,FALSE
+binoculars,Steiner,Steiner Commander 7x50 LRF Binocular,4099.99,STN2329-0000,0,0,FALSE
+binoculars,Steiner,Steiner HX 10x42 Binocular,1299.99,STN2015-0909,0,0,FALSE
+binoculars,Steiner,Steiner HX 15x56 Binocular,1799.99,STN2018-0909,0,0,FALSE
+binoculars,Steiner,Steiner HX 8x42 Binocular,1199.99,STN2014-0909,0,0,FALSE
+binoculars,Steiner,Steiner Marine 7x50 Binocular,499,STN4841-0909,STN4841-0909,0,FALSE
+binoculars,Steiner,Steiner Military M2080r 20x80 Binocular,4189,STNM2676-0000,0,0,FALSE
+binoculars,Steiner,Steiner Military M750r 7x50 Binocular,2209,STNM2650-0050,0,0,FALSE
+binoculars,Steiner,Steiner Military M830r 8x30 Binocular,2059,STNM2640-0000,0,0,FALSE
+binoculars,Steiner,Steiner Military Tact T1028 10x28 Binocular,799.99,STNM2004-0909,0,0,FALSE
+binoculars,Steiner,Steiner Military Tact T1042 10x42 Binocular,1279,STNM2005-0909,0,0,FALSE
+binoculars,Steiner,Steiner Military Tact T824 8x24 Binocular,849.99,STNM2003-0909,0,0,FALSE
+binoculars,Steiner,Steiner Military Tact T824r 8x24 Binocular,1615,STNM2006-0909,0,0,FALSE
+binoculars,Steiner,Steiner Navigator 7x30 Binocular,749.99,STN2340-0900,0,0,TRUE
+binoculars,Steiner,Steiner Navigator 7x50 Binocular,999.99,STN2342-0900,0,0,TRUE
+binoculars,Steiner,Steiner Navigator 7x50c with Compass Binocular,1149,STN2343-0950,0,0,TRUE
+binoculars,Steiner,Steiner Navigator Pro 7x30 Binocular,699.98,STN7645-0900,STN7645-0900,0,FALSE
+binoculars,Steiner,Steiner Navigator Pro 7x30 C Binocular,979.99,STN7145-0950,0,0,TRUE
+binoculars,Steiner,Steiner Nighthunter 8x56 Binocular,2499,STN2310-0000,0,0,FALSE
+binoculars,Steiner,Steiner Nighthunter Xtreme 8x30 Binocular,2999,STN5216-0000,0,0,FALSE
+binoculars,Steiner,Steiner Observer 10x42 Binocular,698,STN2314-0900,STN2314-0900,0,FALSE
+binoculars,Steiner,Steiner Observer 8x42 Binocular,688,STN2313-0900,STN2313-0900,0,FALSE
+binoculars,Steiner,Steiner Predator 10x26 Binocular,449.99,STN2009-0909,0,0,FALSE
+binoculars,Steiner,Steiner Predator 10x42 Binocular,899.99,STN2059-0909,0,0,FALSE
+binoculars,Steiner,Steiner Predator 10x42 LRF Binocular,2299,STN2057-0900,0,0,FALSE
+binoculars,Steiner,Steiner Predator 8x42 Binocular,749.99,STN2010-0909,0,0,FALSE
+binoculars,Steiner,Steiner Predator AF 10x42 w/CAT Binocular,899,STN2046-0900,0,0,FALSE
+binoculars,Steiner,Steiner Predator AF 8x30 w/CAT Binocular,728,STN2045-0900,0,0,FALSE
+binoculars,Steiner,Steiner Ranger Xtreme 10x42 Binocular,1198.99,STN5117-0900,0,0,FALSE
+binoculars,Steiner,Steiner Ranger Xtreme 8x32 Binocular,1048,STN5119-0900,0,0,FALSE
+binoculars,Steiner,Steiner Ranger Xtreme 8x42 Binocular,988,STN5116-0900,0,0,FALSE
+binoculars,Steiner,Steiner Safari Ultrasharp 10x25 AE Binocular,469,STN2333-0900,0,0,FALSE
+binoculars,Steiner,Steiner Safari Ultrasharp 10x25 Binoculars,449,STN2307-0900,0,0,FALSE
+binoculars,Steiner,Steiner Safari Ultrasharp 10x26 Binocular,349,STN4477-0900,STN4477-0900,0,FALSE
+binoculars,Steiner,Steiner Safari Ultrasharp 10x30 Binocular,447.04,STN4406-0900,STN4406-0900,0,FALSE
+binoculars,Steiner,Steiner Safari Ultrasharp 10x42 Binocular,699,STN2308-0900,STN2331-0900,0,FALSE
+binoculars,Steiner,Steiner Safari Ultrasharp 8x22 Binocular,319,STN4457-0900,STN4457-0900,0,FALSE
+binoculars,Steiner,Steiner Safari Ultrasharp 8x25 Binocular,399,STN2306-0900,STN2306-0900,0,FALSE
+binoculars,Steiner,Steiner Safari Ultrasharp 8x30 AE (2018) Binocular,499.99,STN2330-0900,0,0,FALSE
+binoculars,Steiner,Steiner Safari Ultrasharp 8x30 Binocular,472.45,STN4405-0900,STN4406-0900,0,FALSE
+binoculars,Steiner,Steiner Skyhawk 4.0 10x32 Binocular,849,STN2337-0900,0,0,FALSE
+binoculars,Steiner,Steiner Wildlife 10.5x28 Binocular,799,STN2323-0900,0,0,FALSE
+binoculars,Steiner,Steiner Wildlife 10x44 XP Binocular,3498,STN23030000,0,0,FALSE
+binoculars,Steiner,Steiner Wildlife 8x42 Binocular,1249.99,STN2324-0900,0,0,FALSE
+binoculars,Steiner,Steiner Wildlife 8x44 XP Binocular,3132.06,STN23020000,0,0,FALSE
+binoculars,Swarovski,Swarovski CL Companion 10x30 B Binocular,2190,5603890,0,0,FALSE
+binoculars,Swarovski,Swarovski CL Companion 8x30 B Binocular,2090,5603874,0,0,FALSE
+binoculars,Swarovski,Swarovski CL Companion Nomad 10x30 B Binocular,4990,5491266,0,0,FALSE
+binoculars,Swarovski,Swarovski CL Companion Nomad 8x30 B Binocular,4990,5491244,0,0,FALSE
+binoculars,Swarovski,Swarovski CL Curio Pocket 7X21 - Burnt Orange or Black,1190,5619089,0,0,FALSE
+binoculars,Swarovski,Swarovski CL Pocket 10x25 Binocular,1390,5603897,0,0,FALSE
+binoculars,Swarovski,Swarovski CL Pocket 8x25 Binocular,1390,5603899,0,0,FALSE
+binoculars,Swarovski,Swarovski EL 10x32 W B Binocular,3290,5191515,0,0,FALSE
+binoculars,Swarovski,Swarovski EL 10x42 WB Binocular,3790,5191511,0,0,FALSE
+binoculars,Swarovski,Swarovski EL 10x50 W B Binocular,4490,5191513,0,0,FALSE
+binoculars,Swarovski,Swarovski EL 12x50 W B Binocular,4590,5191514,0,0,FALSE
+binoculars,Swarovski,Swarovski EL 8.5x42 W B Binocular - Green,3690,5191512,0,0,FALSE
+binoculars,Swarovski,Swarovski EL 8x32 W B Binocular,3190,5191516,0,0,FALSE
+binoculars,Swarovski,Swarovski EL Range 10x42 LRF Binocular - Green,3990,5191511-Range,0,0,FALSE
+binoculars,Swarovski,Swarovski EL Range 10x42 LRF with Tracking Assistant Binocular,5490,2352300,0,0,FALSE
+binoculars,Swarovski,Swarovski EL Range 10x42 LRF with Tracking Assistant Binocular - Orange,5490,5660410,0,0,FALSE
+binoculars,Swarovski,Swarovski HABICHT 10X40 W Binocular,1890,1047419,0,0,FALSE
+binoculars,Swarovski,Swarovski Habicht 7x42 Binocular,1590,1047418,0,0,FALSE
+binoculars,Swarovski,Swarovski Habicht 7x42 Green (armoured) Binoculars,1890,1043890,0,0,FALSE
+binoculars,Swarovski,Swarovski NL Pure 10x32 - Burnt Orange Binocular,4190,5619092,0,0,FALSE
+binoculars,Swarovski,Swarovski NL Pure 10x32 Binocular,4190,5619069,0,0,FALSE
+binoculars,Swarovski,Swarovski NL Pure 10x42 Binocular,4990,5516787,0,0,FALSE
+binoculars,Swarovski,Swarovski NL Pure 12x42 Binocular,5090,5577610,0,0,FALSE
+binoculars,Swarovski,Swarovski NL Pure 8x32 Binocular,4090,5619040,0,0,FALSE
+binoculars,Swarovski,Swarovski NL Pure 8x42 Binocular,4890,5516772,0,0,FALSE
+binoculars,Swarovski,Swarovski SLC 10x56 W B Binocular,3690,5073805,0,0,FALSE
+binoculars,Swarovski,Swarovski SLC 15x56 WB Binocular,3790,5073810,0,0,FALSE
+binoculars,Swarovski,Swarovski SLC 8x56 W B Binocular,3590,5073800,0,0,FALSE
+binoculars,Tasco,Tasco Essentials 10-30x50 Binocular,239,ES10305Z,0,0,FALSE
+binoculars,Tasco,Tasco Essentials 10x25mm Binocular,59.99,TB168125,0,0,FALSE
+binoculars,Tasco,Tasco Essentials 10x42 Binocular,169.99,TBES10X42,0,0,FALSE
+binoculars,Tasco,Tasco Essentials 12x25mm Binocular,69.99,TB178125,0,0,FALSE
+binoculars,Tasco,Tasco Essentials 12x50 Binocular,169.99,TB170125,0,0,FALSE
+binoculars,Tasco,Tasco Essentials 7x35 Binocular,109,TB169735,0,0,FALSE
+binoculars,Tasco,Tasco Essentials 7x50 Binocular,139.99,TB170750,0,0,FALSE
+binoculars,Tasco,Tasco Essentials 8-24x25 Binocular,149.99,TBES82425Z,0,0,FALSE
+binoculars,Tasco,Tasco Essentials 8x21mm Roof Binocular,49.99,TB165821B,0,0,FALSE
+binoculars,Tasco,Tasco Focus-Free 7x35mm Binocular,149,TB100736,0,0,FALSE
+binoculars,Tasco,Tasco Focus-Free 8x25mm Binocular,159.99,TB100825,0,0,FALSE
+binoculars,Tasco,Tasco Focus-Free 8x32 Binocular,159.99,TB100832,0,0,FALSE
+binoculars,Tasco,Tasco OffShore 10x25 Binocular,149.99,TB200125,0,0,FALSE
+binoculars,Tasco,Tasco OffShore 10x42 Porro Binocular,279.99,TB200142,0,0,FALSE
+binoculars,Tasco,Tasco OffShore 12x25 Binocular,137.99,TB200122,0,0,FALSE
+binoculars,Tasco,Tasco OffShore 8x25 Binocular,99.99,TB200825,0,0,FALSE
+binoculars,Vanguard,Vanguard Endeavor 10x42 ED IV Binocular,828.98,van242669,0,0,FALSE
+binoculars,Vanguard,Vanguard Endeavor 8x42 ED IV Binocular,831.98,van242668,0,0,FALSE
+binoculars,Vanguard,Vanguard Endeavor ED II 8x42 Binoculars,845,V240831,0,0,FALSE
+binoculars,Vanguard,Vanguard Vesta 10x25 Binocular,259,V245164,0,0,FALSE
+binoculars,Vanguard,Vanguard Vesta 10x42 Binoculars - Grey or Real Tree,340,V245195-Gray,0,0,FALSE
+binoculars,Vanguard,Vanguard Vesta 8x25 Binocular,259,V245157,0,0,FALSE
+binoculars,Vanguard,Vanguard Vesta 8x42 Binocular,340,V245188,0,0,FALSE
+binoculars,Vortex,Vortex Crossfire HD 10X42 Binocular,398.99,VOCF-4312,0,0,FALSE
+binoculars,Vortex,Vortex Crossfire HD 8X42 Binocular,361.98,VOCF-4311,0,0,FALSE
+binoculars,Vortex,Vortex Diamondback HD 10x28 Binocular,361.98,VODB211,0,0,FALSE
+binoculars,Vortex,Vortex Diamondback HD 10x32 Binocular,438.98,VODB213,0,0,FALSE
+binoculars,Vortex,Vortex Diamondback HD 10x42 Binocular,599.98,DB-215,0,0,FALSE
+binoculars,Vortex,Vortex Diamondback HD 10x50 Binocular,540.8,VODB216,0,0,FALSE
+binoculars,Vortex,Vortex Diamondback HD 12x50 Binocular,574.99,VODB217,0,0,FALSE
+binoculars,Vortex,Vortex Diamondback HD 8X42 Binocular,488.99,VODB214,0,0,FALSE
+binoculars,Vortex,Vortex Fury 5000 10x42 LRF AB Binocular,3357.9,LRF301AB,0,0,FALSE
+binoculars,Vortex,Vortex Fury HD 5000 10x42 LRF Binocular,2701.4,LRF301,0,0,FALSE
+binoculars,Vortex,Vortex Kaibab HD 18x56 Binoculars,2433.6,VOKAI5618,0,0,FALSE
+binoculars,Vortex,Vortex Raptor 10x32 Binoculars,278.98,VOR310,0,0,FALSE
+binoculars,Vortex,Vortex Raptor 8.5x32 Binoculars,234,VOR385,0,0,FALSE
+binoculars,Vortex,Vortex Razor HD 10x42 Binocular,2138.5,RZB-2102,0,0,FALSE
+binoculars,Vortex,Vortex Razor HD 8x42 Binocular,1975.98,RZB-2101,0,0,FALSE
+binoculars,Vortex,Vortex Razor UHD 10x42 Binocular,3571,VORZB3102,0,0,FALSE
+binoculars,Vortex,Vortex Razor UHD 10x50 Binocular,3639,VORZB3105,0,0,FALSE
+binoculars,Vortex,Vortex Razor UHD 12x50 Binocular,3706,VORZB3103,0,0,FALSE
+binoculars,Vortex,Vortex Razor UHD 18x56 Binocular,3875,VORZB3104,0,0,FALSE
+binoculars,Vortex,Vortex Razor UHD 8x42 Binocular,3459,VORZB3101,0,0,FALSE
+binoculars,Vortex,Vortex Vanquish 10x26 Binocular,278.98,VOVNQ-1026,0,0,FALSE
+binoculars,Vortex,Vortex Vanquish 8x26 Binocular,258.99,VOVNQ-0826,0,0,FALSE
+binoculars,Vortex,Vortex Viper HD 10x42 Binocular,1124.5,VOVPR-4210-HD,0,0,FALSE
+binoculars,Vortex,Vortex Viper HD 10x50 Binocular,1248.99,VOV202,0,0,FALSE
+binoculars,Vortex,Vortex Viper HD 12x50 Binocular,1300,VOV203,0,0,FALSE
+binoculars,Vortex,Vortex Viper HD 8x42 Binocular,1668.98,V200,0,0,FALSE
+binoculars,Zeiss,Zeiss Conquest Compact 8x20 T DNR Binocular,689,ZEBC-522073,0,0,FALSE
+binoculars,Zeiss,Zeiss Conquest HD 10x32 T Binocular,1739,ZEBH-523212,0,0,FALSE
+binoculars,Zeiss,Zeiss Conquest HD 10x42 T Binocular,2289,ZEBH-524212,0,0,FALSE
+binoculars,Zeiss,Zeiss Conquest HD 15x56 T Binocular,2966,ZEBH-525633-0000-000,0,0,FALSE
+binoculars,Zeiss,Zeiss Conquest HD 8x32 T Binocular,1689,ZEBH-523211,0,0,FALSE
+binoculars,Zeiss,Zeiss Conquest HD 8x42 T Binocular,2189,ZEBH-524211,0,0,FALSE
+binoculars,Zeiss,Zeiss Digital Thermal Dtc-a 48 Clip ON Adapter,324.99,ZEDT -528332,0,0,FALSE
+binoculars,Zeiss,Zeiss Digital Thermal Dtc-a 56 Clip ON Adapter,325,ZEDT -528333,0,0,FALSE
+binoculars,Zeiss,Zeiss Digital Thermal Dtc-a 62 Clip ON Adapter,325,ZEDT -528334,0,0,FALSE
+binoculars,Zeiss,Zeiss Digital Thermal Dtc-r M52 Clip ON Adapter,158,ZEDT -528330,0,0,FALSE
+binoculars,Zeiss,Zeiss Digital Thermal Imaging DTC 3/25,6649,ZEDT-527030,0,0,FALSE
+binoculars,Zeiss,Zeiss Digital Thermal Imaging DTC 3/38,7379,ZEDT-527031,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED 10x42 Black - Orange,1119,ZET-524204-9905,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED 10x42 Black Binocular,948.99,ZET-524204-9901,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED 10x42 Black/green Binocular,939,ZET-524204-9908,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED 8x42 Black Binocular,882.99,ZET-524203-9901,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED 8x42 Black-green Binocular,939,ZET-524203-9908,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED Compact 10x32 Black Binocular,839.99,ZET-523204-9901,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED Compact 10x32 Black/green Binocular,849,ZET-523204-9908,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED Compact 8x32 Black Binocular,723.99,ZET-523203-9901,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED Pocket 10x25 Black/grey Binocular,789,ZET-522503-9907,0,0,FALSE
+binoculars,Zeiss,Zeiss Terra ED Pocket 8x25 Black/grey Binocular,739,ZET-522502-9907,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory 10x32 T* FL Binocular Binocular,4299,ZEBV-524223,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory 10x42 RF Range Finder,5489,ZEBV-524549,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory 8x32 T FL Binocular,4967,ZEBV-523230,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory Compact/pocket 8x25 T Binocular,1339,ZEBV-5220389901,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory Pocket 10x25 T Binocular,1389,ZEBV-522039-9901-000,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory RF 10x54 Range Finder NEW,6071,ZEBV-525649,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory RF 8x42 Range Finder Binocular,4889,ZEBV-524548,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory RF 8x54 Range Finder Binocular,5489,ZEBV-525648,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory SF 10x32  LotuTEC - Black Binocular,4139,523225-0000-000,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory SF 10x42 Binocular,4489,ZEBV-524224-0000-000,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory SF 8 x 32 LotuTEC - Black Binocular,3439,523224-0000-000,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory SF 8x42 - Black Binocular,4389,ZEBV-524223-0000-000,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory SFL 10x40 Binocular,3353,ZEBV-524024-0000,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory SFL 8x30 Binocular,2999,ZEBV-523023-0000,0,0,FALSE
+binoculars,Zeiss,Zeiss Victory SFL 8x40 Binocular,3270,ZEBV-524023-0000,0,0,FALSE
+spotting-scopes,Acuter,Acuter Grand Vista 16-48x65 Spotting Scope,640,DS65A,0,0,FALSE
+spotting-scopes,Acuter,Acuter Grand Vista 20-60x80 Spotting Scope,799,DS80A,0,0,FALSE
+spotting-scopes,Barska,Barska 15-40x50 Colorado Spotting Scope,119,CO11500,0,0,FALSE
+spotting-scopes,Burris,Burris Signature HD 20-60x85mm Spotter,2998,BO300102,0,0,FALSE
+spotting-scopes,Bushnell,Bushnell Engage DX 20-60X80 Spotting Scope,1258.99,BSSENDX2680A,0,0,FALSE
+spotting-scopes,Bushnell,Bushnell Forge 20-60x80 Terrain Angled Spotting Scope,2069.09,BSSF206080TA,0,0,FALSE
+spotting-scopes,Bushnell,Bushnell Forge 20-60x80 Terrain Straight Spotting Scope,2069.09,BSSF206080T,0,0,FALSE
+spotting-scopes,Bushnell,"Bushnell Legend T-Series 15-45x60 (Straight Viewing, Mil-Hash Reticle) Tactical Spotting Scope",1316.98,BSS781545ED,0,0,FALSE
+spotting-scopes,Bushnell,Bushnell LMSS II 8-40X60 S/S: Horus H322,4998.98,BSSET884060H,0,0,FALSE
+spotting-scopes,Bushnell,Bushnell LMSS II 8-40X60 S/S: Tremor 4,4998.98,BSSET884060T,0,0,FALSE
+spotting-scopes,Bushnell,Bushnell Nitro 20-60x65 ED Spotting Scope - Angled or Straight,1466.09,BSSN206065GA,0,0,FALSE
+spotting-scopes,Bushnell,Bushnell Prime 16-48x50 Spotting Scope,646.98,BSSP164850B,0,0,FALSE
+spotting-scopes,Bushnell,Bushnell Prime 20-60x65 Angled Spotting Scope,719.98,BSSP206065AB,0,0,FALSE
+spotting-scopes,Bushnell,Bushnell Prime 20-60x65 Spotting Scope,719.98,BSSP206065B,0,0,FALSE
+spotting-scopes,Celestron,Celestron Hummingbird 9-27x56 ED Micro Spotting Scope (Angled),909,52308,0,0,FALSE
+spotting-scopes,Celestron,Celestron Regal M2 100ED Spotting Scope,2219,52306,0,0,FALSE
+spotting-scopes,Celestron,Celestron Regal M2 100ED Spotting Scope - Shop Demo,2099,52306-Shop,0,0,FALSE
+spotting-scopes,Celestron,Celestron Regal M2 ED 80mm Spotting Scope,1649,52305,0,0,FALSE
+spotting-scopes,Celestron,Celestron Trailseeker 80mm Spotting Scope,799,52332,0,0,FALSE
+spotting-scopes,Celestron,Celestron Ultima 80 20-60x80mm Spotting Scope,560,52250,0,0,FALSE
+spotting-scopes,Gerber,GERBER Spotting Scope 15-45×50,299,9.32E+12,0,0,FALSE
+spotting-scopes,Gerber,GERBER Spotting Scope 20-60×60,359,9.32E+12,0,0,FALSE
+spotting-scopes,Gerber,GERBER Spotting Scope 20-60×80,419.99,9.32E+12,0,0,FALSE
+spotting-scopes,Konus,Konus 15-40x50 Konuspot-50 Spotting Scope,119,7124-V,0,0,FALSE
+spotting-scopes,Konus,Konus Konuspot 100 20-60x w/ Smartphone Adapter Spotting Scope,625,KS7127,0,KS7122,FALSE
+spotting-scopes,Konus,Konus Konuspot 60C 20-60x Angled Spotting Scope,178.99,KS7125,0,0,FALSE
+spotting-scopes,Konus,Konus Konuspot 65 15-45X65 Spotting Scope,379,KS7128,0,0,FALSE
+spotting-scopes,Konus,Konus Konuspot 80 - Black Edition W/ Smartphone Adapter Spotting Scope,384,KS7126BK,KS7126-BK,0,FALSE
+spotting-scopes,Konus,Konus Konuspot 80 - Green W/ Smartphone Adapter Spotting Scope,399,KS7126,KS7126,0,FALSE
+spotting-scopes,Kowa,Kowa Prominar 66mm w/ 20-60x eyepiece Spotting Scope,1659,TSN-663M,0,0,FALSE
+spotting-scopes,Kowa,Kowa Prominar 77mm with 25-60x eyepiece Spotting Scope,3799,TSN-773A,0,0,FALSE
+spotting-scopes,Kowa,Kowa Prominar 88mm with 25-60x eyepiece Spotting Scope,4529,TSN-883A,0,0,FALSE
+spotting-scopes,Kowa,Kowa Prominar 99mm w/ 30-70x eyepiece Spotting Scope,5649,TSN-99A ZOOM EYEPIECE SET,0,0,FALSE
+spotting-scopes,Kowa,Kowa TSN-553 Angled Spotting Scope,3790,TSN-553,0,0,FALSE
+spotting-scopes,Kowa,Kowa TSN-82SV 82mm With 20-60x Eyepiece Spotting Scope,1658.99,TSN-82SV,0,0,FALSE
+spotting-scopes,Leica,Leica APO Televid 65Mm Angle Needs LS41021,3792,LS40129,0,0,FALSE
+spotting-scopes,Leica,Leica Apo Televid 82mm Angled Bundle Spotting Scope,6739,LS40121KIT,0,0,FALSE
+spotting-scopes,Leica,Leica APO Televid 82mm Angled Spotting Scope / Requires Eyepiece: LS41021,4319,LS40121,0,0,FALSE
+spotting-scopes,Leupold,Leupold GR 10-20x40mm Compact Spotting Scope,1400,120374,0,0,FALSE
+spotting-scopes,Leupold,Leupold GR 12-40x60mm HD Impact Reticle Spotting Scope,3399,120373,0,0,FALSE
+spotting-scopes,Leupold,Leupold GR 12-40x60mm HD Spotting Scope,3200,120372,0,0,FALSE
+spotting-scopes,Leupold,Leupold GR 12-40x60mm Spotting scope,2999,120371,0,0,FALSE
+spotting-scopes,Leupold,Leupold GR 15-30x50mm Compact Spotting Scope,1500,120375,0,0,FALSE
+spotting-scopes,Leupold,Leupold GR 20-60x80mm Impact Reticle Spotting Scope,5800,120377,0,0,FALSE
+spotting-scopes,Leupold,Leupold GR 20-60x80mm Spotting Scope,4200,120376,0,0,FALSE
+spotting-scopes,Leupold,Leupold Mark 4 12-40x60mm Black Mil Dot Spotting Scope,3999,53756,0,0,FALSE
+spotting-scopes,Leupold,Leupold Mark 4 12-40x60mm Black TMR Spotting Scope,3999,60040,0,0,FALSE
+spotting-scopes,Leupold,Leupold Mark 4 12-40x60mm H-32 Spotting Scope,5699,67185,0,0,FALSE
+spotting-scopes,Leupold,Leupold Mark 4 12-40x60mm Inverted H-32 Spotting Scope,5699,110183,0,0,FALSE
+spotting-scopes,Leupold,Leupold Mark 4 20-60x80mm Black Mil Dot Spotting Scope,5600,110825,0,0,FALSE
+spotting-scopes,Leupold,Leupold Mark 4 20-60x80mm Black TMR Spotting Scope,5600,110826,0,0,FALSE
+spotting-scopes,Leupold,Leupold SX-2 Alpine HD 20-60x60mm Angled Spotting Scope,998,180143,0,0,FALSE
+spotting-scopes,Leupold,Leupold SX-4 Pro Guide HD 15-45x65mm Spotting Scope,1698,177599,0,0,FALSE
+spotting-scopes,Leupold,Leupold SX-4 Pro Guide HD 20-60x85mm Spotting Scope,2198,177597,0,0,FALSE
+spotting-scopes,Leupold,Leupold SX-5 Santiam HD 27-55x80 Spotting Scope,3398,175912,0,0,FALSE
+spotting-scopes,Leupold,SX-2 Alpine HD 20-60x80mm Angled Spotting Scope,1299,180144,0,0,FALSE
+spotting-scopes,Nikon,Nikon Monarch 82ed-a Fieldscope With Mep-20-60 Eyepiece,3319,BDA151WS,0,0,FALSE
+spotting-scopes,Nikon,Nikon Prostaff 5 60 Fieldscope Needs Eyepiece,678.99,BDA322FA,0,0,FALSE
+spotting-scopes,Nikon,Nikon Prostaff 5 60A Fieldscope,583.35,BDA323FA,BDA323FA,0,FALSE
+spotting-scopes,Nikon,Nikon Prostaff 5 60a Joby Tripod Bundle,999,BDA323FAKIT2,0,0,FALSE
+spotting-scopes,Nikon,Nikon Prostaff 5 60a Tripod Bundle,1029,BDA323FAKIT1,0,0,FALSE
+spotting-scopes,Nikon,NIKON PROSTAFF 5 82A TRIPOD BUNDLE,1349,BDA321FAKIT,0,0,FALSE
+spotting-scopes,Simmons Venture,Simmons Venture 20-60x80 45° Spotting Scope,499.99,SSSP206080BA,0,0,FALSE
+spotting-scopes,Swarovski,"Swarovski 20-60x eyepiece for ATS/STS, ATM",945,807828,0,0,FALSE
+spotting-scopes,Swarovski,"Swarovski 25-50x W Eyepiece for ATS/STS, ATM, STM, STR, CTS",1045,1044672,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski ATC/STC 17-40x56 Spotting Scope - Green or Orange,3290,5660455-O,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski ATS/STS 65 Spotting Scope body,2545,5005952,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski ATS/STS 80 Spotting Scope body,3745,5005955A,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski ATX eyepiece module,3445,1171942,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski ATX Interior Spotting Scope with Wooden Tripod,7990,5463246,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski ATX/STX/BTX Objective Module - 115mm,4845,5603875,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski ATX/STX/BTX Objective Module - 65mm,1545,1171944,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski ATX/STX/BTX Objective Module - 85mm,2745,1171945,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski ATX/STX/BTX Objective Module - 95mm,3445,1171946,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski BTX eye piece module,4445,5268622,0,0,FALSE
+spotting-scopes,Swarovski,Swarovski CTC 30x75 with fixed eye-piece 30x W,2290,1047421,0,0,FALSE
+spotting-scopes,Vanguard,Vanguard Endeavor HD 65A Spotting Scope,647.99,ENDEAVORHD65A,0,0,FALSE
+spotting-scopes,Vanguard,Vanguard Endeavor HD 82A Spotting Scope,974.98,V237992,0,0,FALSE
+spotting-scopes,Vanguard,Vanguard Veo HDa 20-60x80 Spotting Scope,699,VEOHD80A,0,0,FALSE
+spotting-scopes,Vanguard,Vanguard Vesta 460A 15-50x60 Spotting Scope with Tripod and Carry Case,399,V246116,0,0,FALSE
+spotting-scopes,Vanguard,Vanguard Vesta 560A 15-45x60 Spotting Scope with VS-82 Tabletop Tripod and Carrying Case,540,V246123,0,0,FALSE
+spotting-scopes,Vortex,Vortex Diamondback 16-48x65 Angled Spotting Scope,885,VODS65A,0,0,FALSE
+spotting-scopes,Vortex,Vortex Diamondback HD 20-60x85 Spotting Scope,1123,DS-85A,0,0,FALSE
+spotting-scopes,Vortex,Vortex Razor HD 22-48x65 Spotting Scope,2919.84,VORS65S,0,0,FALSE
+spotting-scopes,Vortex,Vortex Razor HD 27-60x85 Spotting Scope,3498.99,VORS-85A,0,0,FALSE
+spotting-scopes,Vortex,Vortex Viper HD 15-45x65A Spotting Scope,1605.5,VOV500,0,0,FALSE
+spotting-scopes,Vortex,Vortex Viper HD 20-60x85 Spotting Scope,2317.24,V502,0,0,FALSE
+spotting-scopes,Zeiss,Zeiss Conquest Gavia 30-60x85 Angled with Ocular,3794,ZEC-528048-0000-010,0,0,FALSE
+spotting-scopes,Zeiss,Zeiss Victory Dia 65 FL Angled Spotting Scope,3242,ZEV-528063,0,0,FALSE
+spotting-scopes,Zeiss,Zeiss Victory Harpia 95 Angled Spotting,6071,ZEV-528057-0000-000,0,0,FALSE
+telescope-accessories,Bower,Bower T-Mount 4/3rds Camera Adapter,10,Bower T-Mount 4/3rds Camera Adapter2,0,0,FALSE
+telescope-accessories,Carson,Carson Hookupz 2.0 Universal Smartphone Optic Adapter,188.99,IS-200,IS-200,0,FALSE
+telescope-accessories,Carson,Carson HookUpz Smartphone Binocular Adapter,89,IB-700,0,0,FALSE
+telescope-accessories,Carson,Carson Stuff-It Go™ Microfiber Lens Cleaning Cloth – 2 Pack,15.9,SN-10,0,0,FALSE
+telescope-accessories,Carson,Carson Stuff-It Microfibre Lens Cloth Clean System,14.9,SN-80BK,0,0,FALSE
+telescope-accessories,Celestron,Celestron 0.7x Reducer Lens for EdgeHD 800 Telescope,1199,94242,0,0,FALSE
+telescope-accessories,Celestron,Celestron 1.25' Basic Smartphone Adapter,108.99,81035,0,0,FALSE
+telescope-accessories,Celestron,"Celestron 1.25"" 90 Degree Star Diagonal",119,94115-A,0,0,FALSE
+telescope-accessories,Celestron,"Celestron 13 Piece 1.25"" Eyepiece and Filter Accessory Kit",549,94303,94303,0,FALSE
+telescope-accessories,Celestron,"Celestron 2.5x Luminos 2"" Barlow Lens",399,93436,0,0,FALSE
+telescope-accessories,Celestron,Celestron 25mm Eyepiece,50,25mmbasic,0,0,FALSE
+telescope-accessories,Celestron,"Celestron 34"" Telescope and Tripod Bag",279,94028,94028,0,FALSE
+telescope-accessories,Celestron,"Celestron 4"" Vixen Dovetail (Narrow)",59,"Vixen Dove Tail 4""",0,0,FALSE
+telescope-accessories,Celestron,"Celestron 40"" Telescope and Tripod Bag",299,94025,94025,0,FALSE
+telescope-accessories,Celestron,"Celestron 8"" Visual Back Adapter Replacement",49,CE8VB,0,0,FALSE
+telescope-accessories,Celestron,"Celestron 8-24mm 1.25"" Zoom Eyepiece",249,93230,93230,0,FALSE
+telescope-accessories,Celestron,"Celestron 9.25"" Vixen Dovetail (Narrow)",69,94502,0,0,FALSE
+telescope-accessories,Celestron,"Celestron 90° Dielectric Star Diagonal with Twist-Lock (1.25"")",449,93571,0,0,FALSE
+telescope-accessories,Celestron,"Celestron 90° Dielectric Star Diagonal with Twist-Lock (2"")",719,93573,0,0,FALSE
+telescope-accessories,Celestron,Celestron 9x50 Illuminated Right Angle Correct Image Finderscope,359,93781,0,0,FALSE
+telescope-accessories,Celestron,Celestron AC to DC Power Adapter 2 Amp,159,18779,0,0,FALSE
+telescope-accessories,Celestron,Celestron AC to DC Power Adapter 5 Amp,249,18780,0,0,FALSE
+telescope-accessories,Celestron,Celestron Aluminum Dew Shields - Different Sizes,289,94020,0,0,FALSE
+telescope-accessories,Celestron,Celestron Astromaster Accessory Kit,229,94307,94307,0,FALSE
+telescope-accessories,Celestron,Celestron Collimation Eyepiece,110,94182,94182,0,FALSE
+telescope-accessories,Celestron,Celestron Deluxe Off-Axis Guider,774,93648,0,0,FALSE
+telescope-accessories,Celestron,Celestron Dew Heating Rings - Different Sizes,119,94055,0,0,FALSE
+telescope-accessories,Celestron,"Celestron Dovetail Bar - 8"" - CG5",109,94501,0,0,FALSE
+telescope-accessories,Celestron,"Celestron EclipSmart 8"" Solar Filter",239,94244,0,0,FALSE
+telescope-accessories,Celestron,"Celestron Edge HD Visualback 1.25""",109,CEEDVB,0,0,FALSE
+telescope-accessories,Celestron,Celestron Elements PowerTank Go,74,48019,0,0,FALSE
+telescope-accessories,Celestron,Celestron f/6.3 Reducer/Corrector,349,94175,0,0,FALSE
+telescope-accessories,Celestron,Celestron FirstScope Accessory Kit,99,21024-ACC,0,0,TRUE
+telescope-accessories,Celestron,"Celestron Flexible Dew Shield DX for 9.25"" & 11"" Cassegrain OTAs",149,94016,0,0,FALSE
+telescope-accessories,Celestron,Celestron Focus Motor V2 for SCT and EdgeHD OTAs,539,94155,0,0,FALSE
+telescope-accessories,Celestron,"Celestron Hard Case for NexStar 8/9.25/11"" Telescopes",1603,94004,0,0,FALSE
+telescope-accessories,Celestron,Celestron HD Pro Wedge,1399,93664,0,0,FALSE
+telescope-accessories,Celestron,Celestron LensPen,19.9,J-57,0,0,FALSE
+telescope-accessories,Celestron,Celestron Luminos Eyepieces - All Sizes,399,93430,93430,0,FALSE
+telescope-accessories,Celestron,"Celestron Moon Filter Set (1.25"")",139,94315,0,0,TRUE
+telescope-accessories,Celestron,Celestron Neximage 10 Solar System Colour Camera,899,93708,93708,0,FALSE
+telescope-accessories,Celestron,Celestron NexImage 5MP - Solar System Imager,450.23,93711,93711,0,FALSE
+telescope-accessories,Celestron,Celestron NexStar+ Hand Controller - AZ,289,93988,0,0,FALSE
+telescope-accessories,Celestron,Celestron NexYZ 3-Axis Universal Smartphone Adapter,199,81055,81055,0,FALSE
+telescope-accessories,Celestron,Celestron Optical Tube Carrying Ccase For 4/5/6/8 SCT Or EdgeHD,799,94003,0,0,FALSE
+telescope-accessories,Celestron,"Celestron Padded Soft Telescope Bag for 8"" SCT/EdgeHD OTAs",279,94026,94026,0,FALSE
+telescope-accessories,Celestron,Celestron Piggy Back Mount,79,93609,0,0,FALSE
+telescope-accessories,Celestron,Celestron Portable PowerTank Lithium PRO,749,18768,0,0,TRUE
+telescope-accessories,Celestron,Celestron PowerSeeker Accessory Kit,138.99,94306,94306-p,0,FALSE
+telescope-accessories,Celestron,Celestron PowerTank 7-Amp 12V DC PowerTank,329,18774,0,0,FALSE
+telescope-accessories,Celestron,Celestron Reducer 0.7x - for Edge HD 9.25,1489,94245,0,0,FALSE
+telescope-accessories,Celestron,Celestron Reducer Lens .7x - EdgeHD 1100,2799,94241,0,0,FALSE
+telescope-accessories,Celestron,Celestron Sky Portal WiFi Module,249,93973,93973,0,FALSE
+telescope-accessories,Celestron,Celestron SkySync GPS Accessory,525,93969,0,0,FALSE
+telescope-accessories,Celestron,Celestron Smart DewHeater & Power Controller 4x,1399,94036,0,0,FALSE
+telescope-accessories,Celestron,Celestron StarPointer Pro Red-Dot Finderscope,129,51635,0,0,TRUE
+telescope-accessories,Celestron,Celestron StarPointer Red-Dot Finderscope,99,51630,0,0,TRUE
+telescope-accessories,Celestron,Celestron StarSense Autoalign for Celestron Mounts,1199,94005,0,0,FALSE
+telescope-accessories,Celestron,Celestron StarSense Autoalign for SkyWatcher Mounts,1299,94006,0,0,FALSE
+telescope-accessories,Celestron,"Celestron T-Adapter - For 8"" Edge-HD Telescopes",99,93644,0,0,FALSE
+telescope-accessories,Celestron,Celestron T-Adapter for Nexstar 4SE Telescope,89,93635-A,93635 A,0,FALSE
+telescope-accessories,Celestron,Celestron T-Adapter for Schmidt-Cassegrain Telescope,99,93633-A,93633-A,0,FALSE
+telescope-accessories,Celestron,Celestron Thermistor for Smart DewHeater Controllers,49,94037,0,0,FALSE
+telescope-accessories,Celestron,Celestron T-Ring for Canon EOS,69,93419,93419,0,FALSE
+telescope-accessories,Celestron,"Celestron Ultima Edge Eyepieces -10mm, 15mm, 18mm, 24mm and 30mm (2"")",221,93450,0,0,FALSE
+telescope-accessories,Celestron,Celestron Universal Barlow and T-Adapter,109,93640,93640,0,FALSE
+telescope-accessories,Celestron,Celestron Universal Mounting Plate (CGE Dovetail),194,94214,0,0,FALSE
+telescope-accessories,Celestron,Celestron Universal T-Adapter,89,93625,93625,0,FALSE
+telescope-accessories,Celestron,"Celestron Variable Polarising Moon Filter (1.25"")",129,94107,0,0,FALSE
+telescope-accessories,Celestron,"Celestron Visual Back (1.25"")",39,93653-A,0,0,FALSE
+telescope-accessories,Celestron,Celestron X-Cel LX 2x Barlow Lens,249,93529,93529,0,FALSE
+telescope-accessories,Celestron,Celestron X-Cel LX 3x Barlow Lens,248.99,93428,93428,0,FALSE
+telescope-accessories,Celestron,Celestron X-Cel LX Telescope Eyepieces,249,93421,0,0,TRUE
+telescope-accessories,Celestron,"T-ADAPTER for Edge HD 925, 11 & 14",169,93622,0,0,FALSE
+telescope-accessories,Fotodiox,"Fotodiox T-Mount 48mm Adapter - Sony E, Fuji X, EOS R and M/FT",109,T48-SNE,0,0,FALSE
+telescope-accessories,Jacobs Digital,"Vixen (Narrow) Dovetails - 3"" or 8""",49,Vixendovetail3,0,0,FALSE
+telescope-accessories,Kipon,KIPON T2-Ring Adapter for Canon EOS M,79,T2-EOS M,0,0,FALSE
+telescope-accessories,Kipon,KIPON T2-Ring Adapter for Nikon Z Mount,69,T2-NZ,0,0,FALSE
+telescope-accessories,Konus,Konus Moon Filter,29,KO1034,0,0,FALSE
+telescope-accessories,Konus,Konus Multi Electronic Compass,99,KS4151,0,0,FALSE
+telescope-accessories,Konus,Konus Olympus 4/3rds T2-Ring,5,Konus Olympus 4/3rds T2-Ring,0,0,FALSE
+telescope-accessories,Konus,Konus Steel Rings 30mm High,90,KS7403,0,0,FALSE
+telescope-accessories,Konus,Konus Steel Rings 30mm Low,90,KS7411,0,0,FALSE
+telescope-accessories,Konus,Konus Steel Rings Quick Release 25.4 High,90,KS7406,0,0,FALSE
+telescope-accessories,Konus,Konus Steel Rings Quick Release 25.4 Low (Special Order),90,KS7408,0,0,FALSE
+telescope-accessories,Konus,Konus Steel Rings Quick Release 25.4 Medium,90,KS7407,0,0,FALSE
+telescope-accessories,Konus,Konus Steel Rings Quick Release 30mm Medium,90,KS7410,0,0,FALSE
+telescope-accessories,Konus,Konus Universal Digiscoping Adapter,45.9,1300,0,0,FALSE
+telescope-accessories,Konus,Konus Universal Digiscoping Adapter For Point-And-Shoot Cameras And Smartphones,85.9,1301,0,0,FALSE
+telescope-accessories,Kowa,Kowa 21x highlander eyepiece,1599,TE-21WH,0,0,FALSE
+telescope-accessories,Kowa,Kowa T2-Mount Camera Adapter Ring,79,TSN-CM2-CE,0,0,FALSE
+telescope-accessories,Kowa,Kowa TE-9Z 20-60x Zoom Spotting Scope Eyepiece,729,TE-9Z,0,0,FALSE
+telescope-accessories,Massa,Massa Pentax T2-Ring,10,,0,0,FALSE
+telescope-accessories,Meade,Meade 26mm Super PLÖSSL - Open Box,50,M26mmPlsl,0,0,FALSE
+telescope-accessories,Meade,"Meade Series 5000 21mm Mega Wide Angle Eyepiece (2"")",485,607018,0,0,FALSE
+telescope-accessories,Meade,Meade T-Mount for Contax/Y,10,MeadeT-MountforContax/Y,0,0,FALSE
+telescope-accessories,Omax,Omax 2X Auxiliary Objective Lens for Stereo Microscope - 48mm,189,sm20-v203,0,0,FALSE
+telescope-accessories,Orion,"2"" Orion Variable Polarizing Eyepiece Filter",179,5562,0,0,FALSE
+telescope-accessories,Orion,"2""-to-1.25"" Orion Telescope Eyepiece Adapter",78,5343,0,0,FALSE
+telescope-accessories,Orion,"Orion ""XX"" Padded Case Sets = XX12, XX14 or XX16",505,15094,0,0,FALSE
+telescope-accessories,Orion,"Orion 1.25"" 2x 4-Element Barlow",299,8470,0,0,FALSE
+telescope-accessories,Orion,"Orion 1.25"" Dielectric Mirror Diagonal",349,40901,0,0,FALSE
+telescope-accessories,Orion,"Orion 1.25"" Enhanced Mirror Star Telescope Diagonal",349,8879,0,0,FALSE
+telescope-accessories,Orion,"Orion 1.25"" Shorty 2x Barlow Lens and Camera T-adapter",199,8472,0,530005,FALSE
+telescope-accessories,Orion,"Orion 1.25"" Variable Universal Camera Adapter",149,5339,0,93640,FALSE
+telescope-accessories,Orion,Orion 116mm ID Telescope Tube Rings,69,7372,0,0,FALSE
+telescope-accessories,Orion,Orion 12.5mm Sirius Plossi,165,8726,0,0,FALSE
+telescope-accessories,Orion,"Orion 13"" Universal Narrow Dovetail Plate",125,7955,0,0,FALSE
+telescope-accessories,Orion,Orion 13mm Stratus Wide-Field Eyepiece,349,8244,0,0,FALSE
+telescope-accessories,Orion,"Orion 2"" 2x 4-Element Barlow Lens",499,8471,0,0,FALSE
+telescope-accessories,Orion,"Orion 2"" 2x Barlow, 2 Elements",289,8762,0,0,FALSE
+telescope-accessories,Orion,"Orion 2"" Twist-Tight Dielectric Mirror Star Diagonal",733,40902,0,0,FALSE
+telescope-accessories,Orion,"Orion 2"" Zero-Profile Prime Focus Camera Adapter",139,5308,0,0,FALSE
+telescope-accessories,Orion,Orion 20mm Illuminated Centering Telescope Eyepiece,199,8239,0,0,FALSE
+telescope-accessories,Orion,Orion 268-313mm ID Pinpoint Mask,173,40013,0,0,FALSE
+telescope-accessories,Orion,Orion 3.5mm Orion Stratus Wide-Field Eyepiece,349,8241,0,0,FALSE
+telescope-accessories,Orion,"Orion 8"" Dovetail Mounting Plate",99,7383,0,0,FALSE
+telescope-accessories,Orion,Orion 8mm Stratus Wide-Field Eyepiece,349,8243,0,0,FALSE
+telescope-accessories,Orion,Orion 90mm ID Orion Telescope Tube Rings,119,7370,0,0,FALSE
+telescope-accessories,Orion,Orion 98-133mm ID Pinpoint Telescope Focusing Mask,105,40006,0,0,FALSE
+telescope-accessories,Orion,Orion 9x50 Illuminated Right Angle Correct Image Finder Scope,289,7020,0,0,FALSE
+telescope-accessories,Orion,"Orion Camera Adapter 2"" Crayford",60.8,5117,0,0,FALSE
+telescope-accessories,Orion,"Orion Correct Image 45 Diagonal 1.25""",145,7216,0,0,FALSE
+telescope-accessories,Orion,Orion Dew Heating Bands - Eyepeice & Telescope Sizes,169,3518,0,0,FALSE
+telescope-accessories,Orion,Orion Dew Zapper Pro 4 Channel Control Module,349,3517,0,0,FALSE
+telescope-accessories,Orion,Orion Dual Finder Scope Mounting Bracket,147,10145,0,0,FALSE
+telescope-accessories,Orion,Orion Dynamo PowerTank 12V 17 Amp,379,5657,0,0,FALSE
+telescope-accessories,Orion,Orion EF Widefield Eyepieces,249,52595,0,0,FALSE
+telescope-accessories,Orion,"Orion Erect Image Star 90 Diagonal 1.25""",119,8787,0,0,FALSE
+telescope-accessories,Orion,"Orion Expanse 15mm Wide Angle Eyepiece 1.25""",179,8922,0,0,FALSE
+telescope-accessories,Orion,"Orion Expanse 20mm Wide-Angle Eyepiece 1.25""",179,8923,0,0,FALSE
+telescope-accessories,Orion,"Orion Expanse 6mm Wide-Angle Eyepiece 1.25""",179,8920,0,0,FALSE
+telescope-accessories,Orion,"Orion Expanse 9mm Wide-Angle Eyepiece 1.25""",179,8921,0,0,FALSE
+telescope-accessories,Orion,Orion Field Flattener for Short Refractors,259,8893,0,0,FALSE
+telescope-accessories,Orion,Orion Full Apeture Solar Filters,179,7730,0,0,FALSE
+telescope-accessories,Orion,Orion G10 Colour Camera,5130,51452,0,0,FALSE
+telescope-accessories,Orion,Orion G3 Astrophotography Colour or Monochrome Camera,1597,53082,0,0,FALSE
+telescope-accessories,Orion,"Orion High-Power 1.25"" 3x 4-Element Barlow Lens",299,8707,0,0,FALSE
+telescope-accessories,Orion,Orion Lasermate Deluxe II,199,5691,0,0,FALSE
+telescope-accessories,Orion,"Orion LHD 80-Degree Lanthanum Ultra-Wide 1.25""/2"" Eyepieces",455,51042,0,0,FALSE
+telescope-accessories,Orion,Orion Light Shroud for SkyQuest XX14 Truss Tube Dobsonian,249,15098,0,0,FALSE
+telescope-accessories,Orion,Orion Mini 50mm Guide Scope,299,8891,0,0,FALSE
+telescope-accessories,Orion,Orion Padded Case - Large Reflectors,445,15164,0,0,FALSE
+telescope-accessories,Orion,Orion Planetary Filter Set - 4 Colours,149,5514,0,643905,FALSE
+telescope-accessories,Orion,Orion Schmidt-Cassegrain Finder Scope Base,59.9,7215,0,0,FALSE
+telescope-accessories,Orion,"Orion Scope Cloak - 12""-16"" Dobsonians",602,15207,0,0,FALSE
+telescope-accessories,Orion,"Orion Shorty 2x Barlow 1.25""",199,8711,0,530002,FALSE
+telescope-accessories,Orion,"Orion Sirius Plossl 40mm 1.25""",169,8730,0,0,FALSE
+telescope-accessories,Orion,Orion Sirius Plossl 6.3mm,165,8739,0,0,FALSE
+telescope-accessories,Orion,"Orion StarShoot 2"" Filter Wheel and LRGB Filter Set Package",2827,20186,0,0,FALSE
+telescope-accessories,Orion,Orion Starshoot 3mp Solar System V Camera,329,51451,0,0,FALSE
+telescope-accessories,Orion,Orion Starshoot AutoGuider,1283,52064,0,0,FALSE
+telescope-accessories,Orion,Orion StarShoot AutoGuider Pro & 30mm Ultra Mini Guide Scope,1210,20704,0,0,FALSE
+telescope-accessories,Orion,Orion Starshoot G16 Deep Space Color Imaging Camera,1779,51453,0,0,FALSE
+telescope-accessories,Orion,Orion StarShoot G26 Color,8505,51458,0,0,FALSE
+telescope-accessories,Orion,Orion StarShoot G3 Deep Space Monochrome Imaging Camera,942,53083,0,0,FALSE
+telescope-accessories,Orion,Orion StarShoot G4 Colour Deep Space Imaging Camera,899,53088,0,0,FALSE
+telescope-accessories,Orion,Orion Starshoot G4 Monochrome Deep Space Imaging Camera,939,53087,0,0,FALSE
+telescope-accessories,Orion,Orion StarShoot Mini 6.3mp Color Imaging Camera,891,51883,0,0,FALSE
+telescope-accessories,Orion,Orion StarShoot P1 Polar Alignment Camera w Atlas/Pro/SVP Adapter,799,6236,0,0,FALSE
+telescope-accessories,Orion,Orion StarShoot USB Eyepiece Camera II,236,52183,0,0,FALSE
+telescope-accessories,Orion,Orion Telescope Collimating Eyepiece,109,4411,0,0,FALSE
+telescope-accessories,Orion,"Orion Variable Polarizing Filter 1.25""",91,5560,0,0,FALSE
+telescope-accessories,Orion,Orion Wagan AC to DC 5 amp Power Adapter,199,7299,0,0,FALSE
+telescope-accessories,Orion,Orion Wide M48 T-ring for Canon EOS Cameras,69,5186,0,0,FALSE
+telescope-accessories,Orion,Orion Zoom Eyepiece 7.2mm-21.5mm,349,8250,0,0,FALSE
+telescope-accessories,Silva,Silva Field Compass,45.9,SCFIELD,0,0,FALSE
+telescope-accessories,Silva,Silva Pocket Thermometer Compass,35,SC10,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher 0.85x Focal Reducer - 80ED,559,SWA-BDFF80ED,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher 0.85x Focal Reducer for ED72,699,SWA-ED72REDUCER,0,0,FALSE
+telescope-accessories,Sky-Watcher,"SkyWatcher 10"" Light Shroud",99,SWA-SHROUD10,0,0,FALSE
+telescope-accessories,Sky-Watcher,Skywatcher 102mm Solar Filter for Refractors,89,SWA-SUNR102,0,0,FALSE
+telescope-accessories,Sky-Watcher,"SkyWatcher 12"" Dobsonian GoTo Upgrade Kit",1729,SWA-DOB12GTK,0,0,FALSE
+telescope-accessories,Sky-Watcher,"SkyWatcher 12"" Light Shroud",119,SWA-SHROUD12,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher 12.5mm Illuminated Reticle Eyepiece,145,SWA-125ILLRET,0,0,FALSE
+telescope-accessories,Sky-Watcher,"SkyWatcher 14"" Light Shroud",139,SWA-SHROUD14,0,0,FALSE
+telescope-accessories,Sky-Watcher,"SkyWatcher 2"" Eyepiece and Filter Kit",529,swa-epkit4,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher 22mm 70 Degree Super Wide Angle Eyepiece,349,SWA-22,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher 45 Erecting Prism,90,SWA-45EID,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher 6x30 Right-Angle Corrected Finderscope,129,SWA-6X30RACI,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher 70° Wide Angle Long Eye Relief Eyepieces,349,SWA-WA5,0,0,FALSE
+telescope-accessories,Sky-Watcher,"SkyWatcher 8"" Light Shroud",99,SWA-SHROUD8,0,0,FALSE
+telescope-accessories,Sky-Watcher,"SkyWatcher 8-24mm 1.25"" Zoom Eyepiece",199,SWA-Z824,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher 9x50 Right-Angle Correct Image Finderscope,199,SWA-9X50RACI,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Barlow/Camera Adapter for 72ED,75,ED72-RING,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Diamond Field Flattener 0.85x - 100ED,679,SWA-BDFF100ED,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Evolux Field Flattener and 0.9x Reducer - 62 or 82mm,699,SWA-EVOLUX62-FD,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Eyepiece & Filter Kit,219,SWA-EPKIT2,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher f/4 Aplanatic Coma Corrector,809,SWA-F4COMA,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher L-Bracket for Cameras,99,SWA-Lcamera,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher M48 T-ring - Sony NEX,69,SWA-TM48-NEX,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher PowerTank 12V 7 Amp,329,SW-7AH,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Solar Filter NEWTONIAN - All Sizes,59,SWA-SUNN76,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Sony M48 T Ring - ALPHA,79,SWA-TM48-ALPHA,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Star Adventurer Ball Head Adapter,34.9,SWSTAR-BALL-G,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Super Eyepieces - 20mm or 25mm,35.9,SKY-SP20,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher SynScan Tour Hand Controller,539,SWA-SYNTOUR,0,0,FALSE
+telescope-accessories,Sky-Watcher,Skywatcher SynScan WiFi Adapter,169,SW-WIFI,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher T-Adapter w/ 2x Barlow Lens,129,SWA-TBARLOW,SWA-TBarlow,0,FALSE
+telescope-accessories,Sky-Watcher,Skywatcher Tripod Extension For NEQ5 EQ3 / EQ5 / HEQ5 / AZEQ5 Mounts,299,SWA-TRIEXTEQ5,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Ultra Wide 82° Eyepiece Kit,799,SWA-EPKIT3,0,0,FALSE
+telescope-accessories,Sky-Watcher,SkyWatcher Wedge for Star Adventure – White,179,SWSTAR-WEDGE-WHT,0,0,FALSE
+telescope-accessories,Swarovski,Swarovski T2 lens adapter,69,5005935,0,0,FALSE
+telescope-accessories,Vello,Vello M/43 T-Ring,69,LA-mft-t,0,0,FALSE
+telescope-accessories,Vixen,Vixen Sony A Mount T-Ring,89,37303,0,0,FALSE
+telescope-accessories,Zeiss,Zeiss Cleaning Wipes 20pk & Microfiber Cloth,21,ZELC2096-687,0,0,FALSE
+telescope-accessories,Zeiss,Zeiss Lens Cleaning KIT,79.99,ZELC2390-186,0,0,FALSE
+telescopes,Celestron,Celestron 70mm Travel Scope Telescope,299,21035,0,0,FALSE
+telescopes,Celestron,"Celestron 8"" SCT CGE OTA",2155,91024-XLT,0,0,FALSE
+telescopes,Celestron,"Celestron Advanced VX 11"" Schmidt-Cassegrain Telescope",6354,12067,0,0,FALSE
+telescopes,Celestron,"Celestron Advanced VX 6"" Refractor Telescope",4973,22020,0,0,FALSE
+telescopes,Celestron,"Celestron Advanced VX 8"" Schmidt-Cassegrain Telescope",5249,12026,0,0,FALSE
+telescopes,Celestron,"Celestron Advanced VX 9.25"" Schmidt-Cassegrain Telescope",6354,12046,0,0,FALSE
+telescopes,Celestron,"Celestron Advanced VX Edge HD 8"" Telescope",6354,12031,0,0,FALSE
+telescopes,Celestron,Celestron Ambassador 80 AZ Brass Telescope,2989,21034,0,0,TRUE
+telescopes,Celestron,Celestron Astromaster 130EQ Telescope,599,31045,31045,0,FALSE
+telescopes,Celestron,Celestron Astromaster 130EQ Telescope w/Phone Adapter and Barlow,799,32044,0,31045,FALSE
+telescopes,Celestron,Celestron AstroMaster 70mm EQ Telescope,459,21062,0,22064,FALSE
+telescopes,Celestron,Celestron Astromaster LT 60AZ Telescope w/ Phone adapter & Moon Filter,349,22066,0,214104,FALSE
+telescopes,Celestron,Celestron Astromaster LT 70AZ (700mm) Refractor Telescope w/ Smartphone adapter & Moon Filter,329,22068,0,22064,FALSE
+telescopes,Celestron,Celestron Astromaster LT 70AZ (900mm) Telescope w/Smartphone Adapter & Moon Filter,370,22064,22064,0,FALSE
+telescopes,Celestron,Celestron C6 Optical Tube Assembly (CG-5 DOVETAIL),1859,91010-XLT,0,0,FALSE
+telescopes,Celestron,Celestron C9.25 SCT OTA Tube - CG5,3615,91027-XLT,0,0,FALSE
+telescopes,Celestron,Celestron CGX EQ 800 HD Telescope,8288,12055,0,0,FALSE
+telescopes,Celestron,"Celestron CGX EQ w/ 9.25"" Edge HD OTA Telescope",9393,12056,0,0,FALSE
+telescopes,Celestron,"Celestron CGX-L Equatorial 1400 EdgeHD 14"" Schmidt-Cassegrain GoTo Telescope",22100,12077,0,0,FALSE
+telescopes,Celestron,Celestron CPC 1100 GPS Telescope,9999,11075-xlt,0,0,FALSE
+telescopes,Celestron,"Celestron CPC 800 GPS SCT 8"" GoTo Telescope",6999,11073-XLT,0,0,FALSE
+telescopes,Celestron,Celestron CPC 925 GPS SCT Computerised GoTo Telescope,7223,11074-XLT,0,0,FALSE
+telescopes,Celestron,Celestron CPC Deluxe 1100 HD Computerised Telescope,12739,11009,0,0,FALSE
+telescopes,Celestron,"Celestron CPC Deluxe 800 HD 8"" Telescope",8159,11007,0,0,FALSE
+telescopes,Celestron,"Celestron CPC Deluxe 925 HD 9.25"" GoTo Telescope",8899,11008,0,0,FALSE
+telescopes,Celestron,"Celestron Edge HD 14"" OTA",14999,91060-XLT,0,0,FALSE
+telescopes,Celestron,"Celestron EDGE-HD 11"" OTA CGE",7799,91050-XLT,0,0,FALSE
+telescopes,Celestron,Celestron Edge-HD 800 OTA - CGE,3690,91030-XLT,0,0,FALSE
+telescopes,Celestron,"Celestron EdgeHD 9.25"" f/10 Aplanatic Schmidt-Cassegrain Telescope (OTA Only)",5100,91040,0,0,FALSE
+telescopes,Celestron,"Celestron Evolution 8"" EdgeHD optics w/ StarSense Telescope",7949,12096,0,0,TRUE
+telescopes,Celestron,Celestron Nexstar 130SLT GoTo Reflector Telescope,1499,31145,0,0,TRUE
+telescopes,Celestron,Celestron NexStar 4SE Computerised Telescope,1498.99,11049,11049,0,FALSE
+telescopes,Celestron,Celestron NexStar 6SE Computerised Telescope,2795,11068,11068,0,FALSE
+telescopes,Celestron,Celestron NexStar 8SE Computerised Telescope,4094.99,11069,11069,0,FALSE
+telescopes,Celestron,"Celestron NexStar Evolution 6"" Telescope",3898.99,12090,12090,0,FALSE
+telescopes,Celestron,"Celestron NexStar Evolution 8"" Telescope",4998.99,12091,12091,0,FALSE
+telescopes,Celestron,"Celestron NexStar Evolution 9.25"" Telescope",6794.99,12092,12092,0,FALSE
+telescopes,Celestron,Celestron PowerSeeker 60AZ Telescope,249,21041,0,214104,FALSE
+telescopes,Celestron,Celestron PowerSeeker 60AZ Telescope - Damaged Box,210,21041-Damaged Box,0,214104,FALSE
+telescopes,Celestron,Celestron Robert Reeves Edition FirstScope Tabletop Telescope,179.99,22016,22016,0,FALSE
+telescopes,Celestron,"Celestron StarSense Explorer 8"" Dobsonian Telescope",1998.99,22470,22470,0,FALSE
+telescopes,Celestron,Celestron StarSense Explorer DX 102 Telescope,1098.99,22460,22460,0,FALSE
+telescopes,Celestron,Celestron StarSense Explorer DX 130AZ Telescope,1098.99,22461,22461,0,FALSE
+telescopes,Celestron,Celestron StarSense Explorer DX 130AZ Telescope - Damaged Box,1038.99,22461-Damaged Box,0,22461,FALSE
+telescopes,Celestron,"Celestron StarSense Explorer DX 5"" Telescope",1498.99,22462,22462,0,FALSE
+telescopes,Celestron,"Celestron StarSense Explorer DX 6"" Telescope",1598.99,22463,22463,0,FALSE
+telescopes,Celestron,Celestron StarSense Explorer LT 114AZ Telescope,598.98,22452,22452,0,FALSE
+telescopes,Celestron,Celestron StarSense Explorer LT 127AZ Telescope,649,22453,22453,0,FALSE
+telescopes,Celestron,Celestron StarSense Explorer LT 70AZ Telescope,468.99,22450,22450,0,FALSE
+telescopes,Celestron,Celestron StarSense Explorer LT 80AZ Telescope,648.99,22451,22451,0,FALSE
+telescopes,Konus,Konus Konusnova 114 D114 F500 Reflector Telescope,429,KS1756,0,224103,FALSE
+telescopes,Konus,Konus Konusnova 70 D70 F800 Refractor Telescope,299,KS1755,0,214110,FALSE
+telescopes,Konus,Konus Konuspace 4 D50 F600 Refractor Telescope,129,KS1729,0,0,FALSE
+telescopes,Konus,Konus Konuspace 5 D50 F700 Refractor Telescope,149,KS1731,0,0,FALSE
+telescopes,Konus,Konus Konuspace 6 D60 F800 Refractor Telescope,219,KS1743,0,214104,FALSE
+telescopes,Konus,Konus Konustart 700B D60 F700 Telescope,249,KS1737,0,214110,FALSE
+telescopes,Konus,Konus Konustart 900b D60 F900 Telescope,449,KS1738,0,214120,FALSE
+telescopes,Konus,Konus Motormax 90 Telescope D.90/F1250,699,KS1795,0,0,TRUE
+telescopes,Meade,Meade Infinity 102mm Refractor Telescope,829,209006,0,0,FALSE
+telescopes,Meade,"Meade LX65 6"" ACF Optical Tube - Opened Box",1599,228013,0,0,FALSE
+telescopes,Orion,"Orion 10"" f/8 Ritchey-Chretien Astrograph Telescope",4669,8266,0,0,FALSE
+telescopes,Orion,Orion 120mm f/5.0 Refractor Telescope Optical Tube Assembly,485,9836,0,0,FALSE
+telescopes,Orion,"Orion 8"" f/3.9 Newtonian Astrograph Reflector Telescope",1159,8297,0,0,FALSE
+telescopes,Orion,Orion Apex 102mm Maksutov-Cassegrain Telescope,549,9823,0,0,FALSE
+telescopes,Orion,Orion Apex 90mm Maksutov-Cassegrain Telescope,597.2,9820,0,0,FALSE
+telescopes,Orion,Orion Astroview 120ST EQ Refractor Telescope,1399,9005,0,0,FALSE
+telescopes,Orion,"Orion CC6 6"" Classical Cassegrain Telescope",3141,52138,0,0,FALSE
+telescopes,Orion,"Orion CC8 8"" f/12 Classical Cassegrain Telescope",5496,52139,0,0,FALSE
+telescopes,Orion,Orion ED80T CF 80mm Carbon Fiber APO Triplet Refractor Telescope,2099,9534,0,0,FALSE
+telescopes,Orion,Orion EON 104mm ED-X2 f/6.25 Triplet Apo Refractor Telescope,11777,10090,0,0,FALSE
+telescopes,Orion,Orion GoScope III 70mm Refractor Travel Telescope,299,10276,0,0,FALSE
+telescopes,Orion,Orion Mini EQ Tabletop Equatorial Telescope Mount,239,9055,0,0,FALSE
+telescopes,Orion,Orion Observer 80ST EQ Refractor Telescope,399,10273,0,0,FALSE
+telescopes,Orion,Orion Observer II 70mm AZ Refractor Telescope,349,10275,0,214110,FALSE
+telescopes,Orion,"Orion Orion 8"" f/8 Ritchey-Chretien Astrograph Telescope",2259,8267,0,0,FALSE
+telescopes,Orion,Orion Sirius EQ-G GoTo 180mm Maksutov-Cassegrain Telescope,4434,24764,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XT10 Classic Dobsonian W/Crayford Telescope,1399,8946,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XT10 PLUS Dobsonian Reflector Telescope,1799,10281,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XT10g Computerized GoTo Dobsonian Telescope,2638,10135,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XT10i IntelliScope Dobsonian Telescope,1749,10019,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XT12g Computerized GoTo Dobsonian Telescope,3399,10136,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XT12i IntelliScope Dobsonian Telescope,2499,10020,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XX12g GoTo Truss Tube Dobsonian Telescope,4145,10148,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XX12i IntelliScope Truss Dobsonian Telescope,2644.6,10023,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XX14g GoTo Truss Tube Dobsonian Telescope,5275,8964,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XX14i IntelliScope Truss Dobsonian Telescope,3690.2,10024,0,0,FALSE
+telescopes,Orion,Orion SkyQuest XX16g GoTo Truss Tube Dobsonian Telescope,6970,8968,0,0,FALSE
+telescopes,Orion,Orion SpaceProbe 130ST Equatorial Reflector Telescope,799,9007,0,0,FALSE
+telescopes,Orion,Orion StarMax 90mm TableTop Maksutov-Cassegrain Telescope,1283,10022,0,0,FALSE
+telescopes,Orion,Orion StarSeeker IV 150mm Mak-Cass GoTo Telescope,2500,13166,0,0,FALSE
+telescopes,Orion,Orion VersaGo E-Series 90mm Telescope,969,52590,0,0,FALSE
+telescopes,Sky-Watcher,90 Heritage Virtuoso Tabletop Dobsonain,610,SWDOBMAK90,0,0,FALSE
+telescopes,Sky-Watcher,Sky Watcher 70/500 SolarQuest Solar Scope with Heliofind Mount,989,SWSOLAR-H,0,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher 10"" - 250mm Collapsible Dobsonian GoTo Telescope",2894.99,SWDOB250CGT,0,0,TRUE
+telescopes,Sky-Watcher,"SkyWatcher 10"" - 250mm Collapsible Dobsonian Telescope",1794.99,SWDOB250C,0,0,TRUE
+telescopes,Sky-Watcher,"SkyWatcher 10"" Classic Dobsonian Telescope",1179.99,SWDOB250,SWDOB250,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 100mm ESPRIT ED Triplet APO Refractor Telescope,5144.99,SWESPRIT100,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 100mm Evostar ED Doublet Refractor OTA,1999,SWBDED100-OTA,0,0,FALSE
+telescopes,Sky-Watcher,Sky-Watcher 102/500 AZ-GO2 Refractor,925,SW1025-AZGO2,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 102mm AZ3 Refractor Telescope,799,SW1025AZ3,SW1025AZ3,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 102mm MINI AZ Maksutov-Cassegrain GoTo WiFi Telescope,1499,SW102MAK-MINIAZ,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 102mm Star Discovery Mak-Cass Telescope,1199,SW102NSD-R,0,11049,FALSE
+telescopes,Sky-Watcher,SkyWatcher 114/900 EQ Reflector Telescope,599,SW1149EQ1,0,221101,FALSE
+telescopes,Sky-Watcher,"Skywatcher 12"" - 300mm Collapsible Dobsonian Telescope",2644.99,SWDOB300C,SWDOB300C,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher 12"" - 300mm Collapsible GoTo Dobsonian Telescope",4694.99,SWDOB300CGT,SWDOB300CGT,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 120/900 Evostar ED Doublet Refractor OTA Telescope,4030,SWBDED120-OTA,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 120mm AZ3 Refractor Telescope,1198.99,SW1206AZ3,SW1206AZ3,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 120mm ESPRIT ED Triplet APO Refractor Telescope,6594.99,SWESPRIT120,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 127 Star Discovery Mak Telescope,1599,SW127MAKSD-R,0,244412,FALSE
+telescopes,Sky-Watcher,SkyWatcher 127 VIRTUOSO GTi Maksutov-Cassegrain GoTo Dobsonian Telescope,1299,SWDOB127-VGTi,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 127mm Mini AZ Mak / GoTo WiFi Telescope,1489,SW127MAK-MINIAZ,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 130 Reflector AZGTE & Mini AZ Wifi Mount Telescope,1149,SW130P-AZGTE,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 130/650 AZ-GTi GoTo WiFi Reflector Telescope,1199,SW130A-AZGTI,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 130mm Collapsible Virtuoso,780,SWDob130-vgti,0,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher 14"" Collapsible GoTo Dobsonian Telescope",5710,SWDOB350CGT,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 150/1200 Evostar Refractor OTA,4839,SWBDED150-OTA,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 150/750 Reflector with EQ3 Mount Telescope,1398.98,SW15075EQ3,0,0,TRUE
+telescopes,Sky-Watcher,SkyWatcher 150mm ESPRIT ED Triplet APO Refractor Telescope,10999,SWESPRIT150,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 150mm Reflector Dual Speed PRO OTA Telescope,799,SW15075AP-OTA,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 150mm Reflector OTA Telescope,499,SWBD15075-OTA,0,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher 16"" f/4.4 Collapsible Dobsonian Telescope",5795,SWDOB400C,0,0,FALSE
+telescopes,Sky-Watcher,"Skywatcher 20"" Dobsonian Collapsible GOTO - Wi-Fi version",16000,SWDOB500CGTI,0,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher 200/1000 (8"") Dual Speed Telescope w/ EQ5 Steel Tripod",1869,SW2001EQ5ST-D,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 200mm f/4 Premium Photo Quattro OTA Telescope,1199,SW200Q-OTA,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 250/1200 Photo Reflector OTA Telescope,1399,SW25012AP-OTA,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 300mm F/4 Quattro Reflector OTA Telescope,2599,SW300Q-OTA,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 400P GOTO Collapsible Dobsonian Telescope,7409,SWDOB400CGT,0,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher 6"" Classic Dobsonian Telescope",594.99,SWDOB150,SWDOB150,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 6″ (150mm) Table Top Dobsonian Telescope,649,SWDOB150P,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 6″ Virtuoso GTi Dobsonian GoTo Telescope,999,SWDOB150-VGTI,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 700mm Refractor Telescope,299,SW707AZ2,0,214110,FALSE
+telescopes,Sky-Watcher,SkyWatcher 70mm Refractor w/AZ3 tripod and mount Telescope,499,SW709AZ3,0,214110,FALSE
+telescopes,Sky-Watcher,"SkyWatcher 8"" - 200mm Collapsible Dobsonian Telescope",1453.98,SWDOB200C,0,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher 8"" Classic Dobsonian Telescope",824.99,SWDOB200,SWDOB200,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher 8"" Collapsible WiFi GOTO Dobsonian Telescope",2377.98,SWDOB200CGTI,0,0,FALSE
+telescopes,Sky-Watcher,"Skywatcher 8"" Dobsonian GoTo Upgrade Kit",2430,SWA-DOB8GTK,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 80/600 Evostar ED Doublet Refractor OTA,1549,SWBDED80-OTA,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 80mm ESPRIT ED Triplet APO Refractor Telescope,3194.99,SWESPRIT80,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher 90 AZ3 Refractor Telescope,699,SW906AZ3,0,214120,FALSE
+telescopes,Sky-Watcher,SkyWatcher 909AZ3 Refractor Telescope,649,SW909AZ3,0,214120,FALSE
+telescopes,Sky-Watcher,Skywatcher Black Diamond 114mm AZ-GO2 Telescope,758.99,SW114P-AZGO2,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher Black Diamond 200/1000 OTA,1099,SW2001AP-OTA,0,0,FALSE
+telescopes,Sky-Watcher,"Skywatcher DOB 10"" SynScan Upgrade Kit",2864.5,SWA-DOB10GTK,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher Dobsonian 8” Collapsible GoTo Telescope,2427.98,SWDOB200CGT,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher Evolux 62ED Refractor OTA,999,SWEVOLUX-62ED,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher Evolux 82ED Refractor OTA,1899,SWEVOLUX-82ED,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher Evostar ED APO 72mm f/5.8 Guidescope,1199,SWED72,0,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher HERITAGE 5"" 130mm Table Top Telescope",529,SWDOB130,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher Heritage 76mm Dobsonian Telescope,249,SWDOB76,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher Quattro 150/600mm f/4 Telescope OTA,1010,SW150Q-OTA,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher Quattro 250mm Reflector OTA Telescope,1799,SW250Q-OTA,0,0,FALSE
+telescopes,Sky-Watcher,SkyWatcher Star Adventurer 102mm AZ5 Telescope,999,SW102AZ5,0,0,FALSE
+telescopes,Sky-Watcher,"SkyWatcher Stargate 20"" Collapsible Dobsonian GoTo Telescope",15199,SKY-SWDOB500CGT,0,0,FALSE
+telescopes,Tasco,Tasco Luminova 114mm Reflector Telescope,569.99,TT40114675,0,0,FALSE
+telescopes,Tasco,Tasco Luminova 60mm Refractor Telescope,229.99,TT40060660,0,0,FALSE
+telescopes,Tasco,Tasco Novice 60mm Refractor Telescope,239.99,TT30060800,0,0,FALSE
+telescopes,Tasco,Tasco Spacestation 114mm Reflector Telescope,499.99,TT49114500,0,0,FALSE
+telescopes,Tasco,Tasco Spacestation 60x700mm Telescope,319,TT49060700,0,0,FALSE
+telescopes,Tasco,Tasco Spacestation 70x800mm Telescope,369.99,TT49070800,0,0,FALSE
